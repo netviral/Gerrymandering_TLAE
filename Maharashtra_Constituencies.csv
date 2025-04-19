@@ -1,0 +1,289 @@
+﻿AC_Name,Assembly_No,PC_Name,PC_No,Reserved
+Akkalkuwa,1,Nandurbar,1,"ST(A), ST(P)"
+Shahada,2,Nandurbar,1,"ST(A), ST(P)"
+Nandurbar,3,Nandurbar,1,"ST(A), ST(P)"
+Nawapur,4,Nandurbar,1,"ST(A), ST(P)"
+Sakri,5,Nandurbar,1,"ST(A), ST(P)"
+Shirpur,9,Nandurbar,1,"ST(A), ST(P)"
+Dhule Rural,6,Dhule,2,
+Dhule City,7,Dhule,2,
+Sindkheda,8,Dhule,2,
+Malegaon Central,114,Dhule,2,
+Malegaon Outer,115,Dhule,2,
+Baglan,116,Dhule,2,ST(A)
+Jalgaon City,13,Jalgaon,3,
+Jalgaon Rural,14,Jalgaon,3,
+Amalner,15,Jalgaon,3,
+Erandol,16,Jalgaon,3,
+Chalisgaon,17,Jalgaon,3,
+Pachora,18,Jalgaon,3,
+Chopda,10,Raver,4,ST(A)
+Raver,11,Raver,4,
+Bhusawal,12,Raver,4,SC(A)
+Jamner,19,Raver,4,
+Muktainagar,20,Raver,4,
+Malkapur,21,Raver,4,
+Buldhana,22,Buldhana,5,
+Chikhli,23,Buldhana,5,
+Sindkhed Raja,24,Buldhana,5,
+Mehkar,25,Buldhana,5,SC(A)
+Khamgaon,26,Buldhana,5,
+Jalgaon (Jamod),27,Buldhana,5,
+Akot,28,Akola,6,
+Balapur,29,Akola,6,
+Akola West,30,Akola,6,
+Akola East,31,Akola,6,
+Murtizapur,32,Akola,6,SC(A)
+Risod,33,Akola,6,
+Badnera,37,Amravati,7,SC(P)
+Amravati,38,Amravati,7,SC(P)
+Teosa,39,Amravati,7,SC(P)
+Daryapur,40,Amravati,7,"SC(P), SC(A)"
+Melghat,41,Amravati,7,"SC(P), ST(A)"
+Achalpur,42,Amravati,7,SC(P)
+Dhamangaon Railway,36,Wardha,8,
+Morshi,43,Wardha,8,
+Arvi,44,Wardha,8,
+Deoli,45,Wardha,8,
+Hinganghat,46,Wardha,8,
+Wardha,47,Wardha,8,
+Katol,48,Ramtek,9,SC(P)
+Savner,49,Ramtek,9,SC(P)
+Hingna,50,Ramtek,9,SC(P)
+Umred,51,Ramtek,9,"SC(P), SC(A)"
+Kamthi,58,Ramtek,9,SC(P)
+Ramtek,59,Ramtek,9,SC(P)
+Nagpur South West,52,Nagpur,10,
+Nagpur South,53,Nagpur,10,
+Nagpur East,54,Nagpur,10,
+Nagpur Central,55,Nagpur,10,
+Nagpur West,56,Nagpur,10,
+Nagpur North,57,Nagpur,10,SC(A)
+Tumsar,60,Bhandara-Gondiya,11,
+Bhandara,61,Bhandara-Gondiya,11,SC(A)
+Sakoli,62,Bhandara-Gondiya,11,
+Arjuni-Morgaon,63,Bhandara-Gondiya,11,SC(A)
+Tirora,64,Bhandara-Gondiya,11,
+Gondiya,65,Bhandara-Gondiya,11,
+Amgaon,66,Gadchiroli-Chimur,12,"ST(A), ST(P)"
+Armori,67,Gadchiroli-Chimur,12,"ST(A), ST(P)"
+Gadchiroli,68,Gadchiroli-Chimur,12,"ST(A), ST(P)"
+Aheri,69,Gadchiroli-Chimur,12,"ST(A), ST(P)"
+Brahmapuri,73,Gadchiroli-Chimur,12,ST(P)
+Chimur,74,Gadchiroli-Chimur,12,ST(P)
+Rajura,70,Chandrapur,13,
+Chandrapur,71,Chandrapur,13,SC(A)
+Ballarpur75,72,Chandrapur,13,
+Warora,75,Chandrapur,13,
+Wani,76,Chandrapur,13,
+Arni,80,Chandrapur,13,ST(A)
+Washim,34,Yavatmal-Washim,14,"SC(A), SC(P)"
+Karanja,35,Yavatmal-Washim,14,
+Ralegaon,77,Yavatmal-Washim,14,ST(A)
+Yavatmal,78,Yavatmal-Washim,14,
+Digras,79,Yavatmal-Washim,14,
+Pusad,81,Yavatmal-Washim,14,
+Umarkhed,82,Hingoli,15,SC(A)
+Kinwat,83,Hingoli,15,
+Hadgaon,84,Hingoli,15,
+Basmath,92,Hingoli,15,
+Kalamnuri,93,Hingoli,15,
+Hingoli,94,Hingoli,15,
+Bhokar,85,Nanded,16,
+Nanded North,86,Nanded,16,
+Nanded South,87,Nanded,16,
+Naigaon,89,Nanded,16,
+Deglur,90,Nanded,16,SC(A)
+Mukhed,91,Nanded,16,
+Jintur,95,Parbhani,17,
+Parbhani,96,Parbhani,17,
+Gangakhed,97,Parbhani,17,
+Pathri,98,Parbhani,17,
+Partur,99,Parbhani,17,
+Ghansawangi,100,Parbhani,17,
+Jalna,101,Jalna,18,
+Badnapur,102,Jalna,18,SC(A)
+Bhokardan,103,Jalna,18,
+Sillod,104,Jalna,18,
+Phulambri,106,Jalna,18,
+Paithan,110,Jalna,18,
+Kannad,105,Aurangabad,19,
+Aurangabad Central,107,Aurangabad,19,
+Aurangabad West,108,Aurangabad,19,SC(A)
+Aurangabad East,109,Aurangabad,19,
+Gangapur,111,Aurangabad,19,
+Vaijapur,112,Aurangabad,19,
+Nandgaon,113,Dindori,20,
+Kalwan,117,Dindori,20,"ST(A), ST(P)"
+Chandvad,118,Dindori,20,
+Yevla,119,Dindori,20,
+Niphad,121,Dindori,20,
+Dindori,122,Dindori,20,"ST(A), ST(P)"
+Sinnar,120,Nashik,21,
+Nashik East,123,Nashik,21,
+Nashik Central,124,Nashik,21,
+Nashik West,125,Nashik,21,
+Deolali,126,Nashik,21,SC(A)
+Igatpuri,127,Nashik,21,ST(A)
+Dahanu,128,Palghar,22,"ST(A), ST(P)"
+Vikramgad,129,Palghar,22,"ST(A), ST(P)"
+Palghar,130,Palghar,22,"ST(A), ST(P)"
+Boisar,131,Palghar,22,"ST(A), ST(P)"
+Nalasopara,132,Palghar,22,
+Vasai,133,Palghar,22,
+Bhiwandi Rural,134,Bhiwandi,23,ST(A)
+Shahapur,135,Bhiwandi,23,ST(A)
+Bhiwandi West,136,Bhiwandi,23,
+Bhiwandi East,137,Bhiwandi,23,
+Kalyan West,138,Bhiwandi,23,
+Murbad,139,Bhiwandi,23,
+Ambernath,140,Kalyan,24,SC(A)
+Ulhas Nagar,141,Kalyan,24,
+Kalyan East,142,Kalyan,24,
+Dombivali,143,Kalyan,24,
+Kalyan Rural,144,Kalyan,24,
+Mumbra-Kalwa,149,Kalyan,24,
+Mira Bhayandar,145,Thane,25,
+Ovala – Majiwada,146,Thane,25,
+Kopri-Pachpakhadi,147,Thane,25,
+Thane,148,Thane,25,
+Airoli,150,Thane,25,
+Belapur,151,Thane,25,
+Borivali,152,Mumbai North,26,
+Dahisar,153,Mumbai North,26,
+Magathane,154,Mumbai North,26,
+Kandivali East,160,Mumbai North,26,
+Charkop,161,Mumbai North,26,
+Malad West,162,Mumbai North,26,
+Jogeshwari East,158,Mumbai North-West,27,
+Dindoshi,159,Mumbai North-West,27,
+Goregaon,163,Mumbai North-West,27,
+Versova,164,Mumbai North-West,27,
+Andheri West,165,Mumbai North-West,27,
+Andheri East,166,Mumbai North-West,27,
+Mulund,155,Mumbai North-East,28,
+Vikhroli,156,Mumbai North-East,28,
+Bhandup West,157,Mumbai North-East,28,
+Ghatkopar West,169,Mumbai North-East,28,
+Ghatkopar East,170,Mumbai North-East,28,
+Mankhurd Shivaji Nagar,171,Mumbai North-East,28,
+Vile Parle,167,Mumbai North-Central,29,
+Chandivali,168,Mumbai North-Central,29,
+Kurla,174,Mumbai North-Central,29,SC(A)
+Vandre East,176,Mumbai North-Central,29,
+Vandre West,177,Mumbai North-Central,29,
+Kalina,175,Mumbai North-Central,29,
+Anushakti Nagar,172,Mumbai South-Central,30,
+Chembur,173,Mumbai South-Central,30,
+Dharavi,178,Mumbai South-Central,30,SC(A)
+Sion Koliwada,179,Mumbai South-Central,30,
+Wadala,180,Mumbai South-Central,30,
+Mahim,181,Mumbai South-Central,30,
+Worli,182,Mumbai South,31,
+Shivadi,183,Mumbai South,31,
+Byculla,184,Mumbai South,31,
+Malabar Hill,185,Mumbai South,31,
+Mumbadevi,186,Mumbai South,31,
+Colaba,187,Mumbai South,31,
+Pen,191,Raigad,32,
+Alibag,192,Raigad,32,
+Shrivardhan,193,Raigad,32,
+Mahad,194,Raigad,32,
+Dapoli,263,Raigad,32,
+Guhagar,264,Raigad,32,
+Panvel,188,Maval,33,
+Karjat,189,Maval,33,
+Uran,190,Maval,33,
+Maval,204,Maval,33,
+Chinchwad,205,Maval,33,
+Pimpri,206,Maval,33,SC(A)
+Vadgaon Sheri,208,Pune,34,
+Shivajinagar,209,Pune,34,
+Kothrud,210,Pune,34,
+Parvati,212,Pune,34,
+Pune Cantonment,214,Pune,34,SC(A)
+Kasba Peth,215,Pune,34,
+Daund,199,Baramati,35,
+Indapur,200,Baramati,35,
+Baramati,201,Baramati,35,
+Purandar,202,Baramati,35,
+Bhor,203,Baramati,35,
+Khadakwasala,211,Baramati,35,
+Junnar,195,Shirur,36,
+Ambegaon,196,Shirur,36,
+Khed Alandi,197,Shirur,36,
+Shirur,198,Shirur,36,
+Bhosari,207,Shirur,36,
+Hadapsar,213,Shirur,36,
+Shevgaon,222,Ahmednagar,37,
+Rahuri,223,Ahmednagar,37,
+Parner,224,Ahmednagar,37,
+Ahmednagar City,225,Ahmednagar,37,
+Shrigonda,226,Ahmednagar,37,
+Karjat Jamkhed,227,Ahmednagar,37,
+Akole,216,Shirdi,38,ST(A)
+Sangamner,217,Shirdi,38,
+Shirdi,218,Shirdi,38,SC(P)
+Kopargaon,219,Shirdi,38,
+Shrirampur,220,Shirdi,38,SC(A)
+Nevasa,221,Shirdi,38,
+Georai,228,Beed,39,
+Majalgaon,229,Beed,39,
+Beed,230,Beed,39,
+Ashti,231,Beed,39,
+Kaij,232,Beed,39,SC(A)
+Parli,233,Beed,39,
+Ausa,239,Osmanabad,40,
+Umarga,240,Osmanabad,40,SC(A)
+Tuljapur,241,Osmanabad,40,
+Osmanabad,242,Osmanabad,40,
+Paranda,243,Osmanabad,40,
+Barshi,246,Osmanabad,40,
+Latur Rural,234,Latur,41,SC(P)
+Latur City,235,Latur,41,
+Ahmadpur,236,Latur,41,
+Udgir,237,Latur,41,SC(A)
+Nilanga,238,Latur,41,
+Loha,88,Latur,41,
+Mohol,247,Solapur,42,SC(A)
+Solapur City North,248,Solapur,42,
+Solapur City Central,249,Solapur,42,
+Akkalkot,250,Solapur,42,
+Solapur South,251,Solapur,42,
+Pandharpur,252,Solapur,42,
+Karmala,244,Madha,43,
+Madha,245,Madha,43,
+Sangole,253,Madha,43,
+Malshiras,254,Madha,43,SC(A)
+Phaltan,255,Madha,43,SC(A)
+Man,258,Madha,43,
+Miraj,281,Sangli,44,SC(A)
+Sangli,282,Sangli,44,
+Palus-Kadegaon,285,Sangli,44,
+Khanapur,286,Sangli,44,
+Tasgaon-Kavathe Mahankal,287,Sangli,44,
+Jat,288,Sangli,44,
+Wai,256,Satara,45,
+Koregaon,257,Satara,45,
+Karad North,259,Satara,45,
+Karad South,260,Satara,45,
+Patan,261,Satara,45,
+Satara,262,Satara,45,
+Chiplun,265,Ratnagiri –Sindhudurg,46,
+Ratnagiri,266,Ratnagiri –Sindhudurg,46,
+Rajapur,267,Ratnagiri –Sindhudurg,46,
+Kankavli,268,Ratnagiri –Sindhudurg,46,
+Kudal,269,Ratnagiri –Sindhudurg,46,
+Sawantwadi,270,Ratnagiri –Sindhudurg,46,
+Chandgad,271,Kolhapur,47,
+Radhanagari,272,Kolhapur,47,
+Kagal,273,Kolhapur,47,
+Kolhapur South,274,Kolhapur,47,
+Karvir,275,Kolhapur,47,
+Kolhapur North,276,Kolhapur,47,
+Shahuwadi,277,Hatkanangle,48,
+Hatkanangle,278,Hatkanangle,48,SC(P)
+Ichalkaranji,279,Hatkanangle,48,
+Shirol,280,Hatkanangle,48,
+Islampur,283,Hatkanangle,48,
+Shirala,284,Hatkanangle,48,
