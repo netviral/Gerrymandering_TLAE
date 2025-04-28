@@ -5,6 +5,7 @@ const rawData = fs.readFileSync('cleaned_TCPD.json');
 const data = JSON.parse(rawData);
 
 const pcToAssembly = JSON.parse(fs.readFileSync('pc_to_assembly.json'));
+const assemblyNeighbors = JSON.parse(fs.readFileSync('assembly_neighbors.json')); // 🔥 Add neighbors file
 
 // Step 2: Reverse the pc_to_assembly mapping
 const assemblyToPc = {};
@@ -116,8 +117,29 @@ const finalOutput = Object.values(pcMap).map(pc => {
     Winning_Party: winningParty,
     Winning_Margin: margin.toString(),
     Winning_Margin_Percentage: marginPercentage,
+    swappable_neighbors: "",
     Assemblies: pc.Assemblies
   };
+});
+
+// 🔥 Step 6.5: Add swappable_neighbors before saving
+finalOutput.forEach(pc => {
+  const assembliesInPc = pc.Assemblies.map(a => parseInt(a.Assembly_No));
+  const assembliesSet = new Set(assembliesInPc); // for fast lookup
+
+  const potentialNeighbors = new Set();
+
+  assembliesInPc.forEach(assemblyNo => {
+    const neighbors = assemblyNeighbors[assemblyNo] || [];
+    
+    neighbors.forEach(neighborAssemblyNo => {
+      if (!assembliesSet.has(neighborAssemblyNo)) {
+        potentialNeighbors.add(neighborAssemblyNo);
+      }
+    });
+  });
+
+  pc.swappable_neighbors = Array.from(potentialNeighbors).map(String);
 });
 
 // Step 7: Save to file

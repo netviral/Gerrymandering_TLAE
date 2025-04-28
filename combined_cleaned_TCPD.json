@@ -6,6 +6,14 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "135792",
     "Winning_Margin_Percentage": "10.97",
+    "swappable_neighbors": [
+      "8",
+      "6",
+      "116",
+      "115",
+      "10",
+      "15"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "1",
@@ -466,6 +474,17 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "43087",
     "Winning_Margin_Percentage": "3.66",
+    "swappable_neighbors": [
+      "5",
+      "15",
+      "16",
+      "17",
+      "113",
+      "3",
+      "9",
+      "118",
+      "117"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "6",
@@ -990,6 +1009,18 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "67032",
     "Winning_Margin_Percentage": "5.76",
+    "swappable_neighbors": [
+      "10",
+      "11",
+      "12",
+      "19",
+      "9",
+      "8",
+      "6",
+      "113",
+      "105",
+      "104"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "13",
@@ -1546,6 +1577,17 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "173245",
     "Winning_Margin_Percentage": "15.13",
+    "swappable_neighbors": [
+      "9",
+      "15",
+      "14",
+      "18",
+      "22",
+      "104",
+      "103",
+      "27",
+      "26"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "10",
@@ -2126,6 +2168,19 @@
     "Winning_Party": "INC",
     "Winning_Margin": "22143",
     "Winning_Margin_Percentage": "1.92",
+    "swappable_neighbors": [
+      "20",
+      "21",
+      "19",
+      "103",
+      "101",
+      "99",
+      "29",
+      "33",
+      "95",
+      "41",
+      "28"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "22",
@@ -2634,6 +2689,19 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "1438",
     "Winning_Margin_Percentage": "0.13",
+    "swappable_neighbors": [
+      "41",
+      "27",
+      "40",
+      "26",
+      "25",
+      "37",
+      "36",
+      "35",
+      "34",
+      "94",
+      "95"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "28",
@@ -3430,6 +3498,15 @@
     "Winning_Party": "INC",
     "Winning_Margin": "151125",
     "Winning_Margin_Percentage": "13.86",
+    "swappable_neighbors": [
+      "36",
+      "32",
+      "43",
+      "44",
+      "28",
+      "31",
+      "27"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "37",
@@ -4178,6 +4255,21 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "144520",
     "Winning_Margin_Percentage": "12.96",
+    "swappable_neighbors": [
+      "39",
+      "37",
+      "32",
+      "35",
+      "77",
+      "79",
+      "48",
+      "42",
+      "50",
+      "51",
+      "74",
+      "75",
+      "76"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "36",
@@ -4926,6 +5018,20 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "178395",
     "Winning_Margin_Percentage": "14.05",
+    "swappable_neighbors": [
+      "43",
+      "44",
+      "47",
+      "57",
+      "56",
+      "52",
+      "46",
+      "61",
+      "74",
+      "60",
+      "54",
+      "53"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "48",
@@ -5546,6 +5652,10 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "54321",
     "Winning_Margin_Percentage": "4.84",
+    "swappable_neighbors": [
+      "58",
+      "50"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "52",
@@ -6342,6 +6452,14 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "67486",
     "Winning_Margin_Percentage": "5.47",
+    "swappable_neighbors": [
+      "59",
+      "58",
+      "51",
+      "74",
+      "67",
+      "66"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "60",
@@ -7082,6 +7200,18 @@
     "Winning_Party": "INC",
     "Winning_Margin": "35853",
     "Winning_Margin_Percentage": "3.18",
+    "swappable_neighbors": [
+      "65",
+      "64",
+      "63",
+      "62",
+      "72",
+      "70",
+      "75",
+      "61",
+      "51",
+      "46"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "66",
@@ -7742,6 +7872,17 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "21774",
     "Winning_Margin_Percentage": "1.76",
+    "swappable_neighbors": [
+      "68",
+      "73",
+      "46",
+      "74",
+      "77",
+      "79",
+      "78",
+      "82",
+      "83"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "70",
@@ -8506,6 +8647,19 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "200218",
     "Winning_Margin_Percentage": "16.39",
+    "swappable_neighbors": [
+      "32",
+      "33",
+      "94",
+      "93",
+      "36",
+      "45",
+      "46",
+      "76",
+      "80",
+      "82",
+      "84"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "34",
@@ -9230,6 +9384,20 @@
     "Winning_Party": "INC",
     "Winning_Margin": "8889",
     "Winning_Margin_Percentage": "0.74",
+    "swappable_neighbors": [
+      "79",
+      "80",
+      "81",
+      "85",
+      "95",
+      "96",
+      "97",
+      "86",
+      "87",
+      "88",
+      "34",
+      "33"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "82",
@@ -9938,6 +10106,14 @@
     "Winning_Party": "INC",
     "Winning_Margin": "198326",
     "Winning_Margin_Percentage": "17.19",
+    "swappable_neighbors": [
+      "93",
+      "92",
+      "84",
+      "88",
+      "236",
+      "237"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "85",
@@ -10822,6 +10998,21 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "41950",
     "Winning_Margin_Percentage": "3.02",
+    "swappable_neighbors": [
+      "25",
+      "33",
+      "94",
+      "92",
+      "233",
+      "88",
+      "236",
+      "229",
+      "24",
+      "101",
+      "228",
+      "102",
+      "110"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "95",
@@ -11586,6 +11777,23 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "56758",
     "Winning_Margin_Percentage": "4.38",
+    "swappable_neighbors": [
+      "24",
+      "99",
+      "100",
+      "19",
+      "22",
+      "23",
+      "18",
+      "105",
+      "111",
+      "108",
+      "107",
+      "109",
+      "221",
+      "222",
+      "228"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "101",
@@ -12406,6 +12614,18 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "142258",
     "Winning_Margin_Percentage": "11.81",
+    "swappable_neighbors": [
+      "18",
+      "17",
+      "113",
+      "104",
+      "106",
+      "110",
+      "221",
+      "119",
+      "219",
+      "220"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "105",
@@ -13314,6 +13534,19 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "184942",
     "Winning_Margin_Percentage": "15.51",
+    "swappable_neighbors": [
+      "6",
+      "115",
+      "17",
+      "105",
+      "112",
+      "116",
+      "120",
+      "219",
+      "126",
+      "127",
+      "123"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "113",
@@ -13830,6 +14063,16 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "86131",
     "Winning_Margin_Percentage": "8.07",
+    "swappable_neighbors": [
+      "121",
+      "119",
+      "219",
+      "218",
+      "216",
+      "122",
+      "129",
+      "135"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "120",
@@ -14522,6 +14765,12 @@
     "Winning_Party": "BVA",
     "Winning_Margin": "4436",
     "Winning_Margin_Percentage": "0.39",
+    "swappable_neighbors": [
+      "127",
+      "135",
+      "134",
+      "146"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "128",
@@ -15070,6 +15319,25 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "21300",
     "Winning_Margin_Percentage": "2.08",
+    "swappable_neighbors": [
+      "129",
+      "131",
+      "133",
+      "146",
+      "148",
+      "149",
+      "144",
+      "143",
+      "127",
+      "216",
+      "142",
+      "141",
+      "195",
+      "140",
+      "196",
+      "188",
+      "189"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "134",
@@ -15666,6 +15934,15 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "9725",
     "Winning_Margin_Percentage": "1.06",
+    "swappable_neighbors": [
+      "139",
+      "138",
+      "188",
+      "134",
+      "150",
+      "148",
+      "147"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "140",
@@ -16454,6 +16731,18 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "127760",
     "Winning_Margin_Percentage": "11.32",
+    "swappable_neighbors": [
+      "153",
+      "152",
+      "154",
+      "134",
+      "133",
+      "149",
+      "155",
+      "144",
+      "188",
+      "190"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "145",
@@ -17138,6 +17427,16 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "274658",
     "Winning_Margin_Percentage": "30.67",
+    "swappable_neighbors": [
+      "145",
+      "146",
+      "147",
+      "155",
+      "159",
+      "163",
+      "158",
+      "164"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "152",
@@ -17622,6 +17921,16 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "47725",
     "Winning_Margin_Percentage": "5.56",
+    "swappable_neighbors": [
+      "160",
+      "155",
+      "157",
+      "154",
+      "162",
+      "167",
+      "177",
+      "168"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "158",
@@ -18154,6 +18463,17 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "52340",
     "Winning_Margin_Percentage": "6.08",
+    "swappable_neighbors": [
+      "154",
+      "147",
+      "159",
+      "158",
+      "168",
+      "166",
+      "174",
+      "173",
+      "172"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "155",
@@ -18782,6 +19102,17 @@
     "Winning_Party": "INC",
     "Winning_Margin": "20274",
     "Winning_Margin_Percentage": "2.43",
+    "swappable_neighbors": [
+      "166",
+      "165",
+      "157",
+      "156",
+      "169",
+      "170",
+      "173",
+      "179",
+      "178"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "167",
@@ -19370,6 +19701,15 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "39217",
     "Winning_Margin_Percentage": "5.21",
+    "swappable_neighbors": [
+      "170",
+      "171",
+      "174",
+      "177",
+      "176",
+      "183",
+      "182"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "172",
@@ -19966,6 +20306,10 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "94062",
     "Winning_Margin_Percentage": "12.94",
+    "swappable_neighbors": [
+      "181",
+      "180"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "182",
@@ -20546,6 +20890,16 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "214627",
     "Winning_Margin_Percentage": "19.38",
+    "swappable_neighbors": [
+      "189",
+      "190",
+      "204",
+      "203",
+      "256",
+      "262",
+      "265",
+      "266"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "191",
@@ -21190,6 +21544,21 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "64743",
     "Winning_Margin_Percentage": "4.54",
+    "swappable_neighbors": [
+      "139",
+      "142",
+      "144",
+      "150",
+      "151",
+      "196",
+      "197",
+      "191",
+      "203",
+      "207",
+      "208",
+      "210",
+      "209"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "188",
@@ -21834,6 +22203,16 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "323417",
     "Winning_Margin_Percentage": "32.53",
+    "swappable_neighbors": [
+      "197",
+      "198",
+      "207",
+      "205",
+      "203",
+      "211",
+      "213",
+      "202"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "208",
@@ -22638,6 +23017,26 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "165034",
     "Winning_Margin_Percentage": "11.79",
+    "swappable_neighbors": [
+      "226",
+      "198",
+      "227",
+      "244",
+      "255",
+      "245",
+      "254",
+      "256",
+      "214",
+      "213",
+      "204",
+      "191",
+      "206",
+      "207",
+      "205",
+      "210",
+      "194",
+      "212"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "199",
@@ -23266,6 +23665,23 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "182973",
     "Winning_Margin_Percentage": "13.32",
+    "swappable_neighbors": [
+      "216",
+      "139",
+      "224",
+      "189",
+      "204",
+      "206",
+      "208",
+      "226",
+      "199",
+      "214",
+      "202",
+      "203",
+      "205",
+      "212",
+      "211"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "195",
@@ -23886,6 +24302,22 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "268809",
     "Winning_Margin_Percentage": "21.10",
+    "swappable_neighbors": [
+      "110",
+      "221",
+      "228",
+      "231",
+      "218",
+      "220",
+      "217",
+      "216",
+      "195",
+      "196",
+      "198",
+      "199",
+      "243",
+      "244"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "222",
@@ -24466,6 +24898,20 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "96487",
     "Winning_Margin_Percentage": "8.36",
+    "swappable_neighbors": [
+      "127",
+      "120",
+      "135",
+      "139",
+      "195",
+      "224",
+      "223",
+      "112",
+      "119",
+      "111",
+      "110",
+      "222"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "216",
@@ -25062,6 +25508,21 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "129649",
     "Winning_Margin_Percentage": "9.22",
+    "swappable_neighbors": [
+      "99",
+      "110",
+      "100",
+      "222",
+      "98",
+      "223",
+      "226",
+      "227",
+      "243",
+      "242",
+      "234",
+      "97",
+      "236"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "228",
@@ -26106,6 +26567,18 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "167663",
     "Winning_Margin_Percentage": "13.51",
+    "swappable_neighbors": [
+      "234",
+      "235",
+      "238",
+      "250",
+      "247",
+      "232",
+      "231",
+      "227",
+      "244",
+      "245"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "239",
@@ -26854,6 +27327,20 @@
     "Winning_Party": "INC",
     "Winning_Margin": "12058",
     "Winning_Margin_Percentage": "1.01",
+    "swappable_neighbors": [
+      "92",
+      "85",
+      "97",
+      "87",
+      "89",
+      "91",
+      "233",
+      "232",
+      "242",
+      "241",
+      "239",
+      "240"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "88",
@@ -27578,6 +28065,14 @@
     "Winning_Party": "BJP",
     "Winning_Margin": "180091",
     "Winning_Margin_Percentage": "15.83",
+    "swappable_neighbors": [
+      "246",
+      "241",
+      "245",
+      "240",
+      "253",
+      "288"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "247",
@@ -28454,6 +28949,24 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "81801",
     "Winning_Margin_Percentage": "6.21",
+    "swappable_neighbors": [
+      "227",
+      "199",
+      "243",
+      "246",
+      "200",
+      "247",
+      "252",
+      "286",
+      "288",
+      "287",
+      "202",
+      "201",
+      "256",
+      "257",
+      "259",
+      "285"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "244",
@@ -29122,6 +29635,16 @@
     "Winning_Party": "INC",
     "Winning_Margin": "102863",
     "Winning_Margin_Percentage": "8.80",
+    "swappable_neighbors": [
+      "280",
+      "283",
+      "258",
+      "259",
+      "260",
+      "254",
+      "253",
+      "252"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "281",
@@ -29654,6 +30177,20 @@
     "Winning_Party": "NCP",
     "Winning_Margin": "204912",
     "Winning_Margin_Percentage": "16.44",
+    "swappable_neighbors": [
+      "203",
+      "194",
+      "202",
+      "201",
+      "263",
+      "255",
+      "258",
+      "285",
+      "284",
+      "283",
+      "265",
+      "264"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "256",
@@ -30186,6 +30723,16 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "312788",
     "Winning_Margin_Percentage": "34.62",
+    "swappable_neighbors": [
+      "262",
+      "264",
+      "261",
+      "284",
+      "277",
+      "275",
+      "272",
+      "271"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "265",
@@ -30622,6 +31169,14 @@
     "Winning_Party": "SHS",
     "Winning_Margin": "16790",
     "Winning_Margin_Percentage": "1.19",
+    "swappable_neighbors": [
+      "270",
+      "268",
+      "269",
+      "278",
+      "277",
+      "267"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "271",
@@ -31194,6 +31749,20 @@
     "Winning_Party": "IND",
     "Winning_Margin": "58628",
     "Winning_Margin_Percentage": "4.41",
+    "swappable_neighbors": [
+      "265",
+      "267",
+      "275",
+      "276",
+      "274",
+      "273",
+      "281",
+      "282",
+      "285",
+      "260",
+      "287",
+      "261"
+    ],
     "Assemblies": [
       {
         "Assembly_No": "277",
