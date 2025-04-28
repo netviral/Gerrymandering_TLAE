@@ -1,0 +1,3926 @@
+[
+  {
+    "constituency": {
+      "Assembly_No": "5",
+      "Winning_Party": "IND",
+      "Valid_Votes": "208098",
+      "Electors": "342992",
+      "Constituency_Type": "ST",
+      "Win_Margin": "7265",
+      "Win_Margin_Percentage": "3.49",
+      "PC_No": "1"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "8",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "200568",
+        "Electors": "327082",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "42915",
+        "Win_Margin_Percentage": "21.4",
+        "PC_No": "2"
+      },
+      {
+        "Assembly_No": "6",
+        "Winning_Party": "INC",
+        "Valid_Votes": "245347",
+        "Electors": "372989",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14564",
+        "Win_Margin_Percentage": "5.94",
+        "PC_No": "2"
+      },
+      {
+        "Assembly_No": "116",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "166252",
+        "Electors": "276851",
+        "Constituency_Type": "ST",
+        "Win_Margin": "33694",
+        "Win_Margin_Percentage": "20.27",
+        "PC_No": "2"
+      },
+      {
+        "Assembly_No": "115",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "203468",
+        "Electors": "341615",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "47684",
+        "Win_Margin_Percentage": "23.44",
+        "PC_No": "2"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "6",
+      "Winning_Party": "INC",
+      "Valid_Votes": "245347",
+      "Electors": "372989",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "14564",
+      "Win_Margin_Percentage": "5.94",
+      "PC_No": "2"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "16",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "178375",
+        "Electors": "280441",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "18002",
+        "Win_Margin_Percentage": "10.09",
+        "PC_No": "3"
+      },
+      {
+        "Assembly_No": "113",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "190142",
+        "Electors": "317388",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13889",
+        "Win_Margin_Percentage": "7.3",
+        "PC_No": "20"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "10",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "199418",
+      "Electors": "308441",
+      "Constituency_Type": "ST",
+      "Win_Margin": "20529",
+      "Win_Margin_Percentage": "10.29",
+      "PC_No": "4"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "9",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "212092",
+        "Electors": "320802",
+        "Constituency_Type": "ST",
+        "Win_Margin": "49174",
+        "Win_Margin_Percentage": "23.19",
+        "PC_No": "1"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "11",
+      "Winning_Party": "INC",
+      "Valid_Votes": "203396",
+      "Electors": "293382",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "15609",
+      "Win_Margin_Percentage": "7.67",
+      "PC_No": "4"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "14",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "198363",
+        "Electors": "315672",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "46729",
+        "Win_Margin_Percentage": "23.56",
+        "PC_No": "3"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "15",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "184906",
+      "Electors": "293648",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "8594",
+      "Win_Margin_Percentage": "4.65",
+      "PC_No": "3"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "9",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "212092",
+        "Electors": "320802",
+        "Constituency_Type": "ST",
+        "Win_Margin": "49174",
+        "Win_Margin_Percentage": "23.19",
+        "PC_No": "1"
+      },
+      {
+        "Assembly_No": "8",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "200568",
+        "Electors": "327082",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "42915",
+        "Win_Margin_Percentage": "21.4",
+        "PC_No": "2"
+      },
+      {
+        "Assembly_No": "10",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "199418",
+        "Electors": "308441",
+        "Constituency_Type": "ST",
+        "Win_Margin": "20529",
+        "Win_Margin_Percentage": "10.29",
+        "PC_No": "4"
+      },
+      {
+        "Assembly_No": "6",
+        "Winning_Party": "INC",
+        "Valid_Votes": "245347",
+        "Electors": "372989",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14564",
+        "Win_Margin_Percentage": "5.94",
+        "PC_No": "2"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "17",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "217953",
+      "Electors": "345660",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "4287",
+      "Win_Margin_Percentage": "1.97",
+      "PC_No": "3"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "6",
+        "Winning_Party": "INC",
+        "Valid_Votes": "245347",
+        "Electors": "372989",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14564",
+        "Win_Margin_Percentage": "5.94",
+        "PC_No": "2"
+      },
+      {
+        "Assembly_No": "113",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "190142",
+        "Electors": "317388",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13889",
+        "Win_Margin_Percentage": "7.3",
+        "PC_No": "20"
+      },
+      {
+        "Assembly_No": "105",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "215750",
+        "Electors": "314679",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "18690",
+        "Win_Margin_Percentage": "8.66",
+        "PC_No": "19"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "18",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "201417",
+      "Electors": "315444",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2084",
+      "Win_Margin_Percentage": "1.03",
+      "PC_No": "3"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "19",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "208765",
+        "Electors": "308952",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35014",
+        "Win_Margin_Percentage": "16.77",
+        "PC_No": "4"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "20",
+      "Winning_Party": "IND",
+      "Valid_Votes": "196220",
+      "Electors": "290175",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "1957",
+      "Win_Margin_Percentage": "1",
+      "PC_No": "4"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "27",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203737",
+        "Electors": "289736",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35231",
+        "Win_Margin_Percentage": "17.29",
+        "PC_No": "5"
+      },
+      {
+        "Assembly_No": "22",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "179198",
+        "Electors": "306272",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "26075",
+        "Win_Margin_Percentage": "14.55",
+        "PC_No": "5"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "21",
+      "Winning_Party": "INC",
+      "Valid_Votes": "186252",
+      "Electors": "268718",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "14384",
+      "Win_Margin_Percentage": "7.72",
+      "PC_No": "4"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "27",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203737",
+        "Electors": "289736",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35231",
+        "Win_Margin_Percentage": "17.29",
+        "PC_No": "5"
+      },
+      {
+        "Assembly_No": "26",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "198171",
+        "Electors": "280436",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "16968",
+        "Win_Margin_Percentage": "8.56",
+        "PC_No": "5"
+      },
+      {
+        "Assembly_No": "22",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "179198",
+        "Electors": "306272",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "26075",
+        "Win_Margin_Percentage": "14.55",
+        "PC_No": "5"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "22",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "179198",
+      "Electors": "306272",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "26075",
+      "Win_Margin_Percentage": "14.55",
+      "PC_No": "5"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "19",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "208765",
+        "Electors": "308952",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35014",
+        "Win_Margin_Percentage": "16.77",
+        "PC_No": "4"
+      },
+      {
+        "Assembly_No": "103",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "216925",
+        "Electors": "306696",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "32490",
+        "Win_Margin_Percentage": "14.98",
+        "PC_No": "18"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "24",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "201315",
+      "Electors": "312571",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "8938",
+      "Win_Margin_Percentage": "4.44",
+      "PC_No": "5"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "103",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "216925",
+        "Electors": "306696",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "32490",
+        "Win_Margin_Percentage": "14.98",
+        "PC_No": "18"
+      },
+      {
+        "Assembly_No": "101",
+        "Winning_Party": "INC",
+        "Valid_Votes": "186340",
+        "Electors": "333456",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25338",
+        "Win_Margin_Percentage": "13.6",
+        "PC_No": "18"
+      },
+      {
+        "Assembly_No": "99",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203633",
+        "Electors": "296299",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25942",
+        "Win_Margin_Percentage": "12.74",
+        "PC_No": "17"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "26",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "198171",
+      "Electors": "280436",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "16968",
+      "Win_Margin_Percentage": "8.56",
+      "PC_No": "5"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "29",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "195443",
+        "Electors": "295885",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "18788",
+        "Win_Margin_Percentage": "9.61",
+        "PC_No": "6"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "28",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "182915",
+      "Electors": "285150",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "7260",
+      "Win_Margin_Percentage": "3.97",
+      "PC_No": "6"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "41",
+        "Winning_Party": "PHJSP",
+        "Valid_Votes": "181941",
+        "Electors": "277523",
+        "Constituency_Type": "ST",
+        "Win_Margin": "41362",
+        "Win_Margin_Percentage": "22.73",
+        "PC_No": "7"
+      },
+      {
+        "Assembly_No": "40",
+        "Winning_Party": "INC",
+        "Valid_Votes": "190346",
+        "Electors": "297583",
+        "Constituency_Type": "SC",
+        "Win_Margin": "30519",
+        "Win_Margin_Percentage": "16.03",
+        "PC_No": "7"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "29",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "195443",
+      "Electors": "295885",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "18788",
+      "Win_Margin_Percentage": "9.61",
+      "PC_No": "6"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "27",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203737",
+        "Electors": "289736",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35231",
+        "Win_Margin_Percentage": "17.29",
+        "PC_No": "5"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "31",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "193339",
+      "Electors": "344835",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "24723",
+      "Win_Margin_Percentage": "12.79",
+      "PC_No": "6"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "40",
+        "Winning_Party": "INC",
+        "Valid_Votes": "190346",
+        "Electors": "297583",
+        "Constituency_Type": "SC",
+        "Win_Margin": "30519",
+        "Win_Margin_Percentage": "16.03",
+        "PC_No": "7"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "32",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "175469",
+      "Electors": "321817",
+      "Constituency_Type": "SC",
+      "Win_Margin": "1910",
+      "Win_Margin_Percentage": "1.09",
+      "PC_No": "6"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "40",
+        "Winning_Party": "INC",
+        "Valid_Votes": "190346",
+        "Electors": "297583",
+        "Constituency_Type": "SC",
+        "Win_Margin": "30519",
+        "Win_Margin_Percentage": "16.03",
+        "PC_No": "7"
+      },
+      {
+        "Assembly_No": "37",
+        "Winning_Party": "IND",
+        "Valid_Votes": "186665",
+        "Electors": "355888",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "15541",
+        "Win_Margin_Percentage": "8.33",
+        "PC_No": "7"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "33",
+      "Winning_Party": "INC",
+      "Valid_Votes": "205417",
+      "Electors": "308878",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2141",
+      "Win_Margin_Percentage": "1.04",
+      "PC_No": "6"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "25",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "174816",
+        "Electors": "293549",
+        "Constituency_Type": "SC",
+        "Win_Margin": "62202",
+        "Win_Margin_Percentage": "35.58",
+        "PC_No": "5"
+      },
+      {
+        "Assembly_No": "34",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "206733",
+        "Electors": "349279",
+        "Constituency_Type": "SC",
+        "Win_Margin": "13695",
+        "Win_Margin_Percentage": "6.62",
+        "PC_No": "14"
+      },
+      {
+        "Assembly_No": "94",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "200319",
+        "Electors": "312431",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "24065",
+        "Win_Margin_Percentage": "12.01",
+        "PC_No": "15"
+      },
+      {
+        "Assembly_No": "95",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "257157",
+        "Electors": "350923",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "3717",
+        "Win_Margin_Percentage": "1.45",
+        "PC_No": "17"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "34",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "206733",
+      "Electors": "349279",
+      "Constituency_Type": "SC",
+      "Win_Margin": "13695",
+      "Win_Margin_Percentage": "6.62",
+      "PC_No": "14"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "93",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "211354",
+        "Electors": "305506",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "16378",
+        "Win_Margin_Percentage": "7.75",
+        "PC_No": "15"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "36",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "209820",
+      "Electors": "314698",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9519",
+      "Win_Margin_Percentage": "4.54",
+      "PC_No": "8"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "39",
+        "Winning_Party": "INC",
+        "Valid_Votes": "173676",
+        "Electors": "295992",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "10361",
+        "Win_Margin_Percentage": "5.97",
+        "PC_No": "7"
+      },
+      {
+        "Assembly_No": "37",
+        "Winning_Party": "IND",
+        "Valid_Votes": "186665",
+        "Electors": "355888",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "15541",
+        "Win_Margin_Percentage": "8.33",
+        "PC_No": "7"
+      },
+      {
+        "Assembly_No": "79",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "225776",
+        "Electors": "322980",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "63607",
+        "Win_Margin_Percentage": "28.17",
+        "PC_No": "14"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "39",
+      "Winning_Party": "INC",
+      "Valid_Votes": "173676",
+      "Electors": "295992",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "10361",
+      "Win_Margin_Percentage": "5.97",
+      "PC_No": "7"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "44",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "176929",
+        "Electors": "262594",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "12467",
+        "Win_Margin_Percentage": "7.05",
+        "PC_No": "8"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "42",
+      "Winning_Party": "PHJSP",
+      "Valid_Votes": "185161",
+      "Electors": "275255",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "8396",
+      "Win_Margin_Percentage": "4.53",
+      "PC_No": "7"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "43",
+        "Winning_Party": "SWP",
+        "Valid_Votes": "191974",
+        "Electors": "289657",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "9791",
+        "Win_Margin_Percentage": "5.1",
+        "PC_No": "8"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "43",
+      "Winning_Party": "SWP",
+      "Valid_Votes": "191974",
+      "Electors": "289657",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9791",
+      "Win_Margin_Percentage": "5.1",
+      "PC_No": "8"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "48",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "190017",
+        "Electors": "272288",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "17057",
+        "Win_Margin_Percentage": "8.98",
+        "PC_No": "9"
+      },
+      {
+        "Assembly_No": "39",
+        "Winning_Party": "INC",
+        "Valid_Votes": "173676",
+        "Electors": "295992",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "10361",
+        "Win_Margin_Percentage": "5.97",
+        "PC_No": "7"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "44",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "176929",
+      "Electors": "262594",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "12467",
+      "Win_Margin_Percentage": "7.05",
+      "PC_No": "8"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "48",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "190017",
+        "Electors": "272288",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "17057",
+        "Win_Margin_Percentage": "8.98",
+        "PC_No": "9"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "47",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "169363",
+      "Electors": "316641",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "7933",
+      "Win_Margin_Percentage": "4.68",
+      "PC_No": "8"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "48",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "190017",
+        "Electors": "272288",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "17057",
+        "Win_Margin_Percentage": "8.98",
+        "PC_No": "9"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "51",
+      "Winning_Party": "INC",
+      "Valid_Votes": "197658",
+      "Electors": "284768",
+      "Constituency_Type": "SC",
+      "Win_Margin": "18029",
+      "Win_Margin_Percentage": "9.12",
+      "PC_No": "9"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "61",
+        "Winning_Party": "IND",
+        "Valid_Votes": "234148",
+        "Electors": "371088",
+        "Constituency_Type": "SC",
+        "Win_Margin": "23677",
+        "Win_Margin_Percentage": "10.11",
+        "PC_No": "11"
+      },
+      {
+        "Assembly_No": "46",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "192412",
+        "Electors": "296130",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "50455",
+        "Win_Margin_Percentage": "26.22",
+        "PC_No": "8"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "56",
+      "Winning_Party": "INC",
+      "Valid_Votes": "178469",
+      "Electors": "362539",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "6367",
+      "Win_Margin_Percentage": "3.57",
+      "PC_No": "10"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "50",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "226866",
+        "Electors": "376915",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "46167",
+        "Win_Margin_Percentage": "20.35",
+        "PC_No": "9"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "57",
+      "Winning_Party": "INC",
+      "Valid_Votes": "195771",
+      "Electors": "384742",
+      "Constituency_Type": "SC",
+      "Win_Margin": "20694",
+      "Win_Margin_Percentage": "10.57",
+      "PC_No": "10"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "50",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "226866",
+        "Electors": "376915",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "46167",
+        "Win_Margin_Percentage": "20.35",
+        "PC_No": "9"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "58",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "259312",
+      "Electors": "440221",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "11116",
+      "Win_Margin_Percentage": "4.29",
+      "PC_No": "9"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "61",
+        "Winning_Party": "IND",
+        "Valid_Votes": "234148",
+        "Electors": "371088",
+        "Constituency_Type": "SC",
+        "Win_Margin": "23677",
+        "Win_Margin_Percentage": "10.11",
+        "PC_No": "11"
+      },
+      {
+        "Assembly_No": "57",
+        "Winning_Party": "INC",
+        "Valid_Votes": "195771",
+        "Electors": "384742",
+        "Constituency_Type": "SC",
+        "Win_Margin": "20694",
+        "Win_Margin_Percentage": "10.57",
+        "PC_No": "10"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "60",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "215010",
+      "Electors": "303652",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "7700",
+      "Win_Margin_Percentage": "3.58",
+      "PC_No": "11"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "59",
+        "Winning_Party": "IND",
+        "Valid_Votes": "184531",
+        "Electors": "278654",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "24413",
+        "Win_Margin_Percentage": "13.23",
+        "PC_No": "9"
+      },
+      {
+        "Assembly_No": "58",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "259312",
+        "Electors": "440221",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "11116",
+        "Win_Margin_Percentage": "4.29",
+        "PC_No": "9"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "62",
+      "Winning_Party": "INC",
+      "Valid_Votes": "228700",
+      "Electors": "318804",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "6240",
+      "Win_Margin_Percentage": "2.73",
+      "PC_No": "11"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "67",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "181271",
+        "Electors": "253349",
+        "Constituency_Type": "ST",
+        "Win_Margin": "21667",
+        "Win_Margin_Percentage": "11.95",
+        "PC_No": "12"
+      },
+      {
+        "Assembly_No": "74",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "207796",
+        "Electors": "277652",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "9752",
+        "Win_Margin_Percentage": "4.69",
+        "PC_No": "12"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "63",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "176274",
+      "Electors": "252915",
+      "Constituency_Type": "SC",
+      "Win_Margin": "718",
+      "Win_Margin_Percentage": "0.41",
+      "PC_No": "11"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "66",
+        "Winning_Party": "INC",
+        "Valid_Votes": "183259",
+        "Electors": "266988",
+        "Constituency_Type": "ST",
+        "Win_Margin": "7420",
+        "Win_Margin_Percentage": "4.05",
+        "PC_No": "12"
+      },
+      {
+        "Assembly_No": "67",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "181271",
+        "Electors": "253349",
+        "Constituency_Type": "ST",
+        "Win_Margin": "21667",
+        "Win_Margin_Percentage": "11.95",
+        "PC_No": "12"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "66",
+      "Winning_Party": "INC",
+      "Valid_Votes": "183259",
+      "Electors": "266988",
+      "Constituency_Type": "ST",
+      "Win_Margin": "7420",
+      "Win_Margin_Percentage": "4.05",
+      "PC_No": "12"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "65",
+        "Winning_Party": "IND",
+        "Valid_Votes": "209384",
+        "Electors": "322248",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "27169",
+        "Win_Margin_Percentage": "12.98",
+        "PC_No": "11"
+      },
+      {
+        "Assembly_No": "64",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "169301",
+        "Electors": "257918",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25963",
+        "Win_Margin_Percentage": "15.34",
+        "PC_No": "11"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "70",
+      "Winning_Party": "INC",
+      "Valid_Votes": "224857",
+      "Electors": "316018",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2501",
+      "Win_Margin_Percentage": "1.11",
+      "PC_No": "13"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "68",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "196298",
+        "Electors": "286057",
+        "Constituency_Type": "ST",
+        "Win_Margin": "35341",
+        "Win_Margin_Percentage": "18",
+        "PC_No": "12"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "73",
+      "Winning_Party": "INC",
+      "Valid_Votes": "193468",
+      "Electors": "270601",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "18549",
+      "Win_Margin_Percentage": "9.59",
+      "PC_No": "12"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "72",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "200460",
+        "Electors": "321083",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "33240",
+        "Win_Margin_Percentage": "16.58",
+        "PC_No": "13"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "74",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "207796",
+      "Electors": "277652",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9752",
+      "Win_Margin_Percentage": "4.69",
+      "PC_No": "12"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "61",
+        "Winning_Party": "IND",
+        "Valid_Votes": "234148",
+        "Electors": "371088",
+        "Constituency_Type": "SC",
+        "Win_Margin": "23677",
+        "Win_Margin_Percentage": "10.11",
+        "PC_No": "11"
+      },
+      {
+        "Assembly_No": "51",
+        "Winning_Party": "INC",
+        "Valid_Votes": "197658",
+        "Electors": "284768",
+        "Constituency_Type": "SC",
+        "Win_Margin": "18029",
+        "Win_Margin_Percentage": "9.12",
+        "PC_No": "9"
+      },
+      {
+        "Assembly_No": "75",
+        "Winning_Party": "INC",
+        "Valid_Votes": "185623",
+        "Electors": "296588",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "10197",
+        "Win_Margin_Percentage": "5.49",
+        "PC_No": "13"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "75",
+      "Winning_Party": "INC",
+      "Valid_Votes": "185623",
+      "Electors": "296588",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "10197",
+      "Win_Margin_Percentage": "5.49",
+      "PC_No": "13"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "46",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "192412",
+        "Electors": "296130",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "50455",
+        "Win_Margin_Percentage": "26.22",
+        "PC_No": "8"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "77",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "197676",
+      "Electors": "283514",
+      "Constituency_Type": "ST",
+      "Win_Margin": "9875",
+      "Win_Margin_Percentage": "5",
+      "PC_No": "14"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "45",
+        "Winning_Party": "INC",
+        "Valid_Votes": "175033",
+        "Electors": "275460",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35804",
+        "Win_Margin_Percentage": "20.46",
+        "PC_No": "8"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "80",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "211294",
+      "Electors": "312268",
+      "Constituency_Type": "ST",
+      "Win_Margin": "3153",
+      "Win_Margin_Percentage": "1.49",
+      "PC_No": "13"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "79",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "225776",
+        "Electors": "322980",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "63607",
+        "Win_Margin_Percentage": "28.17",
+        "PC_No": "14"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "81",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "189456",
+      "Electors": "293635",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9701",
+      "Win_Margin_Percentage": "5.12",
+      "PC_No": "14"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "93",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "211354",
+        "Electors": "305506",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "16378",
+        "Win_Margin_Percentage": "7.75",
+        "PC_No": "15"
+      },
+      {
+        "Assembly_No": "84",
+        "Winning_Party": "INC",
+        "Valid_Votes": "195799",
+        "Electors": "279379",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13363",
+        "Win_Margin_Percentage": "6.82",
+        "PC_No": "15"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "82",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "196716",
+      "Electors": "293480",
+      "Constituency_Type": "SC",
+      "Win_Margin": "9287",
+      "Win_Margin_Percentage": "4.72",
+      "PC_No": "15"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "79",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "225776",
+        "Electors": "322980",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "63607",
+        "Win_Margin_Percentage": "28.17",
+        "PC_No": "14"
+      },
+      {
+        "Assembly_No": "81",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "189456",
+        "Electors": "293635",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "9701",
+        "Win_Margin_Percentage": "5.12",
+        "PC_No": "14"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "87",
+      "Winning_Party": "INC",
+      "Valid_Votes": "182816",
+      "Electors": "285122",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3592",
+      "Win_Margin_Percentage": "1.96",
+      "PC_No": "16"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "92",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "217733",
+        "Electors": "292304",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "8251",
+        "Win_Margin_Percentage": "3.79",
+        "PC_No": "15"
+      },
+      {
+        "Assembly_No": "88",
+        "Winning_Party": "PWPI",
+        "Valid_Votes": "192695",
+        "Electors": "274323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "64362",
+        "Win_Margin_Percentage": "33.4",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "92",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "217733",
+      "Electors": "292304",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "8251",
+      "Win_Margin_Percentage": "3.79",
+      "PC_No": "15"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "96",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "192260",
+        "Electors": "306460",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "81790",
+        "Win_Margin_Percentage": "42.54",
+        "PC_No": "17"
+      },
+      {
+        "Assembly_No": "85",
+        "Winning_Party": "INC",
+        "Valid_Votes": "207382",
+        "Electors": "279004",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "97445",
+        "Win_Margin_Percentage": "46.99",
+        "PC_No": "16"
+      },
+      {
+        "Assembly_No": "97",
+        "Winning_Party": "RSPS",
+        "Valid_Votes": "269918",
+        "Electors": "389421",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "18058",
+        "Win_Margin_Percentage": "6.69",
+        "PC_No": "17"
+      },
+      {
+        "Assembly_No": "86",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "189501",
+        "Electors": "313523",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "12106",
+        "Win_Margin_Percentage": "6.39",
+        "PC_No": "16"
+      },
+      {
+        "Assembly_No": "88",
+        "Winning_Party": "PWPI",
+        "Valid_Votes": "192695",
+        "Electors": "274323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "64362",
+        "Win_Margin_Percentage": "33.4",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "93",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "211354",
+      "Electors": "305506",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "16378",
+      "Win_Margin_Percentage": "7.75",
+      "PC_No": "15"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "85",
+        "Winning_Party": "INC",
+        "Valid_Votes": "207382",
+        "Electors": "279004",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "97445",
+        "Win_Margin_Percentage": "46.99",
+        "PC_No": "16"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "95",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "257157",
+      "Electors": "350923",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3717",
+      "Win_Margin_Percentage": "1.45",
+      "PC_No": "17"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "25",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "174816",
+        "Electors": "293549",
+        "Constituency_Type": "SC",
+        "Win_Margin": "62202",
+        "Win_Margin_Percentage": "35.58",
+        "PC_No": "5"
+      },
+      {
+        "Assembly_No": "92",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "217733",
+        "Electors": "292304",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "8251",
+        "Win_Margin_Percentage": "3.79",
+        "PC_No": "15"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "97",
+      "Winning_Party": "RSPS",
+      "Valid_Votes": "269918",
+      "Electors": "389421",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "18058",
+      "Win_Margin_Percentage": "6.69",
+      "PC_No": "17"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "233",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "224272",
+        "Electors": "306710",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "30701",
+        "Win_Margin_Percentage": "13.69",
+        "PC_No": "39"
+      },
+      {
+        "Assembly_No": "88",
+        "Winning_Party": "PWPI",
+        "Valid_Votes": "192695",
+        "Electors": "274323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "64362",
+        "Win_Margin_Percentage": "33.4",
+        "PC_No": "41"
+      },
+      {
+        "Assembly_No": "236",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "214981",
+        "Electors": "321329",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "29191",
+        "Win_Margin_Percentage": "13.58",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "98",
+      "Winning_Party": "INC",
+      "Valid_Votes": "236330",
+      "Electors": "353895",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "14774",
+      "Win_Margin_Percentage": "6.25",
+      "PC_No": "17"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "233",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "224272",
+        "Electors": "306710",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "30701",
+        "Win_Margin_Percentage": "13.69",
+        "PC_No": "39"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "99",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "203633",
+      "Electors": "296299",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "25942",
+      "Win_Margin_Percentage": "12.74",
+      "PC_No": "17"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "25",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "174816",
+        "Electors": "293549",
+        "Constituency_Type": "SC",
+        "Win_Margin": "62202",
+        "Win_Margin_Percentage": "35.58",
+        "PC_No": "5"
+      },
+      {
+        "Assembly_No": "101",
+        "Winning_Party": "INC",
+        "Valid_Votes": "186340",
+        "Electors": "333456",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25338",
+        "Win_Margin_Percentage": "13.6",
+        "PC_No": "18"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "100",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "229049",
+      "Electors": "312859",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3409",
+      "Win_Margin_Percentage": "1.49",
+      "PC_No": "17"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "102",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "211577",
+        "Electors": "307973",
+        "Constituency_Type": "SC",
+        "Win_Margin": "18612",
+        "Win_Margin_Percentage": "8.8",
+        "PC_No": "18"
+      },
+      {
+        "Assembly_No": "101",
+        "Winning_Party": "INC",
+        "Valid_Votes": "186340",
+        "Electors": "333456",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25338",
+        "Win_Margin_Percentage": "13.6",
+        "PC_No": "18"
+      },
+      {
+        "Assembly_No": "110",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "213269",
+        "Electors": "294058",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14139",
+        "Win_Margin_Percentage": "6.63",
+        "PC_No": "18"
+      },
+      {
+        "Assembly_No": "228",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "261554",
+        "Electors": "352375",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "6792",
+        "Win_Margin_Percentage": "2.6",
+        "PC_No": "39"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "104",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "238428",
+      "Electors": "316918",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "24381",
+      "Win_Margin_Percentage": "10.23",
+      "PC_No": "18"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "19",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "208765",
+        "Electors": "308952",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "35014",
+        "Win_Margin_Percentage": "16.77",
+        "PC_No": "4"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "106",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "228054",
+      "Electors": "326352",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "15274",
+      "Win_Margin_Percentage": "6.7",
+      "PC_No": "18"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "105",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "215750",
+        "Electors": "314679",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "18690",
+        "Win_Margin_Percentage": "8.66",
+        "PC_No": "19"
+      },
+      {
+        "Assembly_No": "108",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "199527",
+        "Electors": "336024",
+        "Constituency_Type": "SC",
+        "Win_Margin": "40445",
+        "Win_Margin_Percentage": "20.27",
+        "PC_No": "19"
+      },
+      {
+        "Assembly_No": "107",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "194520",
+        "Electors": "325835",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13892",
+        "Win_Margin_Percentage": "7.14",
+        "PC_No": "19"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "110",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "213269",
+      "Electors": "294058",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "14139",
+      "Win_Margin_Percentage": "6.63",
+      "PC_No": "18"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "111",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203483",
+        "Electors": "313553",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "34971",
+        "Win_Margin_Percentage": "17.19",
+        "PC_No": "19"
+      },
+      {
+        "Assembly_No": "221",
+        "Winning_Party": "KTSTP",
+        "Valid_Votes": "211582",
+        "Electors": "263158",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "30663",
+        "Win_Margin_Percentage": "14.49",
+        "PC_No": "38"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "117",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "194994",
+      "Electors": "268757",
+      "Constituency_Type": "ST",
+      "Win_Margin": "6596",
+      "Win_Margin_Percentage": "3.38",
+      "PC_No": "20"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "116",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "166252",
+        "Electors": "276851",
+        "Constituency_Type": "ST",
+        "Win_Margin": "33694",
+        "Win_Margin_Percentage": "20.27",
+        "PC_No": "2"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "118",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "192628",
+      "Electors": "279047",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "27744",
+      "Win_Margin_Percentage": "14.4",
+      "PC_No": "20"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "115",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "203468",
+        "Electors": "341615",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "47684",
+        "Win_Margin_Percentage": "23.44",
+        "PC_No": "2"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "120",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "198935",
+      "Electors": "301994",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2072",
+      "Win_Margin_Percentage": "1.04",
+      "PC_No": "21"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "218",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "186718",
+        "Electors": "263057",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "87024",
+        "Win_Margin_Percentage": "46.61",
+        "PC_No": "38"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "123",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "181019",
+      "Electors": "355502",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "12000",
+      "Win_Margin_Percentage": "6.63",
+      "PC_No": "21"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "122",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "209170",
+        "Electors": "300260",
+        "Constituency_Type": "ST",
+        "Win_Margin": "60813",
+        "Win_Margin_Percentage": "29.07",
+        "PC_No": "20"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "129",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "182841",
+      "Electors": "266576",
+      "Constituency_Type": "ST",
+      "Win_Margin": "21399",
+      "Win_Margin_Percentage": "11.7",
+      "PC_No": "22"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "127",
+        "Winning_Party": "INC",
+        "Valid_Votes": "167289",
+        "Electors": "259809",
+        "Constituency_Type": "ST",
+        "Win_Margin": "31555",
+        "Win_Margin_Percentage": "18.86",
+        "PC_No": "21"
+      },
+      {
+        "Assembly_No": "134",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "172814",
+        "Electors": "289361",
+        "Constituency_Type": "ST",
+        "Win_Margin": "44509",
+        "Win_Margin_Percentage": "25.76",
+        "PC_No": "23"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "131",
+      "Winning_Party": "BVA",
+      "Valid_Votes": "212852",
+      "Electors": "315434",
+      "Constituency_Type": "ST",
+      "Win_Margin": "2752",
+      "Win_Margin_Percentage": "1.29",
+      "PC_No": "22"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "134",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "172814",
+        "Electors": "289361",
+        "Constituency_Type": "ST",
+        "Win_Margin": "44509",
+        "Win_Margin_Percentage": "25.76",
+        "PC_No": "23"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "133",
+      "Winning_Party": "BVA",
+      "Valid_Votes": "190005",
+      "Electors": "304697",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "25995",
+      "Win_Margin_Percentage": "13.68",
+      "PC_No": "22"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "134",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "172814",
+        "Electors": "289361",
+        "Constituency_Type": "ST",
+        "Win_Margin": "44509",
+        "Win_Margin_Percentage": "25.76",
+        "PC_No": "23"
+      },
+      {
+        "Assembly_No": "146",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "193669",
+        "Electors": "449717",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "84008",
+        "Win_Margin_Percentage": "43.38",
+        "PC_No": "25"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "135",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "161955",
+      "Electors": "249313",
+      "Constituency_Type": "ST",
+      "Win_Margin": "15104",
+      "Win_Margin_Percentage": "9.33",
+      "PC_No": "23"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "127",
+        "Winning_Party": "INC",
+        "Valid_Votes": "167289",
+        "Electors": "259809",
+        "Constituency_Type": "ST",
+        "Win_Margin": "31555",
+        "Win_Margin_Percentage": "18.86",
+        "PC_No": "21"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "141",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "109601",
+      "Electors": "233324",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2004",
+      "Win_Margin_Percentage": "1.83",
+      "PC_No": "24"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "138",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "189790",
+        "Electors": "452924",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "22277",
+        "Win_Margin_Percentage": "11.74",
+        "PC_No": "23"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "142",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "151062",
+      "Electors": "345802",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "12257",
+      "Win_Margin_Percentage": "8.11",
+      "PC_No": "24"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "138",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "189790",
+        "Electors": "452924",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "22277",
+        "Win_Margin_Percentage": "11.74",
+        "PC_No": "23"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "144",
+      "Winning_Party": "MNS",
+      "Valid_Votes": "197914",
+      "Electors": "424976",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "7154",
+      "Win_Margin_Percentage": "3.61",
+      "PC_No": "24"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "134",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "172814",
+        "Electors": "289361",
+        "Constituency_Type": "ST",
+        "Win_Margin": "44509",
+        "Win_Margin_Percentage": "25.76",
+        "PC_No": "23"
+      },
+      {
+        "Assembly_No": "138",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "189790",
+        "Electors": "452924",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "22277",
+        "Win_Margin_Percentage": "11.74",
+        "PC_No": "23"
+      },
+      {
+        "Assembly_No": "150",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "196424",
+        "Electors": "461489",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "78491",
+        "Win_Margin_Percentage": "39.96",
+        "PC_No": "25"
+      },
+      {
+        "Assembly_No": "188",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "302481",
+        "Electors": "557513",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "92730",
+        "Win_Margin_Percentage": "30.66",
+        "PC_No": "33"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "145",
+      "Winning_Party": "IND",
+      "Valid_Votes": "211636",
+      "Electors": "437178",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "15526",
+      "Win_Margin_Percentage": "7.34",
+      "PC_No": "25"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "153",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "135054",
+        "Electors": "255297",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "63917",
+        "Win_Margin_Percentage": "47.33",
+        "PC_No": "26"
+      },
+      {
+        "Assembly_No": "152",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "165964",
+        "Electors": "301446",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "95021",
+        "Win_Margin_Percentage": "57.25",
+        "PC_No": "26"
+      },
+      {
+        "Assembly_No": "154",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "151372",
+        "Electors": "274102",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "49146",
+        "Win_Margin_Percentage": "32.47",
+        "PC_No": "26"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "148",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "178258",
+      "Electors": "337846",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "19424",
+      "Win_Margin_Percentage": "10.9",
+      "PC_No": "25"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "134",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "172814",
+        "Electors": "289361",
+        "Constituency_Type": "ST",
+        "Win_Margin": "44509",
+        "Win_Margin_Percentage": "25.76",
+        "PC_No": "23"
+      },
+      {
+        "Assembly_No": "149",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "179050",
+        "Electors": "357578",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "75639",
+        "Win_Margin_Percentage": "42.24",
+        "PC_No": "24"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "162",
+      "Winning_Party": "INC",
+      "Valid_Votes": "156318",
+      "Electors": "296495",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "10383",
+      "Win_Margin_Percentage": "6.64",
+      "PC_No": "26"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "163",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "152297",
+        "Electors": "327926",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "48907",
+        "Win_Margin_Percentage": "32.11",
+        "PC_No": "27"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "164",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "120820",
+      "Electors": "285116",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "5186",
+      "Win_Margin_Percentage": "4.29",
+      "PC_No": "27"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "162",
+        "Winning_Party": "INC",
+        "Valid_Votes": "156318",
+        "Electors": "296495",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "10383",
+        "Win_Margin_Percentage": "6.64",
+        "PC_No": "26"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "166",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "147117",
+      "Electors": "274716",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "16965",
+      "Win_Margin_Percentage": "11.53",
+      "PC_No": "27"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "167",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "139272",
+        "Electors": "262346",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "58427",
+        "Win_Margin_Percentage": "41.95",
+        "PC_No": "29"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "168",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "196341",
+      "Electors": "379343",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "409",
+      "Win_Margin_Percentage": "0.21",
+      "PC_No": "29"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "169",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "149453",
+        "Electors": "271345",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "28789",
+        "Win_Margin_Percentage": "19.26",
+        "PC_No": "28"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "172",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "139226",
+      "Electors": "251916",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "12751",
+      "Win_Margin_Percentage": "9.16",
+      "PC_No": "30"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "170",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "126616",
+        "Electors": "234656",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "53319",
+        "Win_Margin_Percentage": "42.11",
+        "PC_No": "28"
+      },
+      {
+        "Assembly_No": "171",
+        "Winning_Party": "SP",
+        "Valid_Votes": "143391",
+        "Electors": "304526",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25601",
+        "Win_Margin_Percentage": "17.85",
+        "PC_No": "28"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "173",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "132654",
+      "Electors": "253901",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "19018",
+      "Win_Margin_Percentage": "14.34",
+      "PC_No": "30"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "170",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "126616",
+        "Electors": "234656",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "53319",
+        "Win_Margin_Percentage": "42.11",
+        "PC_No": "28"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "176",
+      "Winning_Party": "INC",
+      "Valid_Votes": "126597",
+      "Electors": "251371",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "5790",
+      "Win_Margin_Percentage": "4.57",
+      "PC_No": "29"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "179",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "129851",
+        "Electors": "257293",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13951",
+        "Win_Margin_Percentage": "10.74",
+        "PC_No": "30"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "178",
+      "Winning_Party": "INC",
+      "Valid_Votes": "119077",
+      "Electors": "250251",
+      "Constituency_Type": "SC",
+      "Win_Margin": "11824",
+      "Win_Margin_Percentage": "9.93",
+      "PC_No": "30"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "177",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "131004",
+        "Electors": "297716",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "26507",
+        "Win_Margin_Percentage": "20.23",
+        "PC_No": "29"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "179",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "129851",
+      "Electors": "257293",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "13951",
+      "Win_Margin_Percentage": "10.74",
+      "PC_No": "30"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "174",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "123434",
+        "Electors": "274813",
+        "Constituency_Type": "SC",
+        "Win_Margin": "21013",
+        "Win_Margin_Percentage": "17.02",
+        "PC_No": "29"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "189",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "200243",
+      "Electors": "282310",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "18046",
+      "Win_Margin_Percentage": "9.01",
+      "PC_No": "33"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "139",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "232861",
+        "Electors": "397940",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "136040",
+        "Win_Margin_Percentage": "58.42",
+        "PC_No": "23"
+      },
+      {
+        "Assembly_No": "196",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "190032",
+        "Electors": "284182",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "66775",
+        "Win_Margin_Percentage": "35.14",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "197",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "220745",
+        "Electors": "327618",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "33242",
+        "Win_Margin_Percentage": "15.06",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "191",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "215926",
+        "Electors": "302036",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "24051",
+        "Win_Margin_Percentage": "11.14",
+        "PC_No": "32"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "190",
+      "Winning_Party": "IND",
+      "Valid_Votes": "218947",
+      "Electors": "294194",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "5710",
+      "Win_Margin_Percentage": "2.61",
+      "PC_No": "33"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "151",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "174527",
+        "Electors": "385993",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43597",
+        "Win_Margin_Percentage": "24.98",
+        "PC_No": "25"
+      },
+      {
+        "Assembly_No": "191",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "215926",
+        "Electors": "302036",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "24051",
+        "Win_Margin_Percentage": "11.14",
+        "PC_No": "32"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "191",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "215926",
+      "Electors": "302036",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "24051",
+      "Win_Margin_Percentage": "11.14",
+      "PC_No": "32"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "204",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "248224",
+        "Electors": "348581",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "93942",
+        "Win_Margin_Percentage": "37.85",
+        "PC_No": "33"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "194",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "190900",
+      "Electors": "284842",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "21575",
+      "Win_Margin_Percentage": "11.3",
+      "PC_No": "32"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "256",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "227883",
+        "Electors": "332498",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43647",
+        "Win_Margin_Percentage": "19.15",
+        "PC_No": "45"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "195",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "202529",
+      "Electors": "299932",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9068",
+      "Win_Margin_Percentage": "4.48",
+      "PC_No": "36"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "139",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "232861",
+        "Electors": "397940",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "136040",
+        "Win_Margin_Percentage": "58.42",
+        "PC_No": "23"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "199",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "214048",
+      "Electors": "309486",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "746",
+      "Win_Margin_Percentage": "0.35",
+      "PC_No": "35"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "198",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "258680",
+        "Electors": "384323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "41504",
+        "Win_Margin_Percentage": "16.04",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "227",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "238360",
+        "Electors": "320843",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43347",
+        "Win_Margin_Percentage": "18.19",
+        "PC_No": "37"
+      },
+      {
+        "Assembly_No": "244",
+        "Winning_Party": "IND",
+        "Valid_Votes": "215071",
+        "Electors": "302816",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "5494",
+        "Win_Margin_Percentage": "2.55",
+        "PC_No": "43"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "200",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "233498",
+      "Electors": "305866",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3110",
+      "Win_Margin_Percentage": "1.33",
+      "PC_No": "35"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "244",
+        "Winning_Party": "IND",
+        "Valid_Votes": "215071",
+        "Electors": "302816",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "5494",
+        "Win_Margin_Percentage": "2.55",
+        "PC_No": "43"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "202",
+      "Winning_Party": "INC",
+      "Valid_Votes": "238061",
+      "Electors": "362150",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "31404",
+      "Win_Margin_Percentage": "13.19",
+      "PC_No": "35"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "198",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "258680",
+        "Electors": "384323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "41504",
+        "Win_Margin_Percentage": "16.04",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "256",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "227883",
+        "Electors": "332498",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43647",
+        "Win_Margin_Percentage": "19.15",
+        "PC_No": "45"
+      },
+      {
+        "Assembly_No": "255",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "215604",
+        "Electors": "332673",
+        "Constituency_Type": "SC",
+        "Win_Margin": "30981",
+        "Win_Margin_Percentage": "14.37",
+        "PC_No": "43"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "203",
+      "Winning_Party": "INC",
+      "Valid_Votes": "228263",
+      "Electors": "361734",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9206",
+      "Win_Margin_Percentage": "4.03",
+      "PC_No": "35"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "204",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "248224",
+        "Electors": "348581",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "93942",
+        "Win_Margin_Percentage": "37.85",
+        "PC_No": "33"
+      },
+      {
+        "Assembly_No": "191",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "215926",
+        "Electors": "302036",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "24051",
+        "Win_Margin_Percentage": "11.14",
+        "PC_No": "32"
+      },
+      {
+        "Assembly_No": "206",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "177595",
+        "Electors": "353688",
+        "Constituency_Type": "SC",
+        "Win_Margin": "19808",
+        "Win_Margin_Percentage": "11.15",
+        "PC_No": "33"
+      },
+      {
+        "Assembly_No": "207",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "263463",
+        "Electors": "441268",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "77567",
+        "Win_Margin_Percentage": "29.44",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "205",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "278231",
+        "Electors": "518480",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "38498",
+        "Win_Margin_Percentage": "13.84",
+        "PC_No": "33"
+      },
+      {
+        "Assembly_No": "210",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "195157",
+        "Electors": "404858",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25495",
+        "Win_Margin_Percentage": "13.06",
+        "PC_No": "34"
+      },
+      {
+        "Assembly_No": "194",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "190900",
+        "Electors": "284842",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "21575",
+        "Win_Margin_Percentage": "11.3",
+        "PC_No": "32"
+      },
+      {
+        "Assembly_No": "256",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "227883",
+        "Electors": "332498",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43647",
+        "Win_Margin_Percentage": "19.15",
+        "PC_No": "45"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "206",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "177595",
+      "Electors": "353688",
+      "Constituency_Type": "SC",
+      "Win_Margin": "19808",
+      "Win_Margin_Percentage": "11.15",
+      "PC_No": "33"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "207",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "263463",
+        "Electors": "441268",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "77567",
+        "Win_Margin_Percentage": "29.44",
+        "PC_No": "36"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "208",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "214602",
+      "Electors": "456998",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "4975",
+      "Win_Margin_Percentage": "2.32",
+      "PC_No": "34"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "207",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "263463",
+        "Electors": "441268",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "77567",
+        "Win_Margin_Percentage": "29.44",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "205",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "278231",
+        "Electors": "518480",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "38498",
+        "Win_Margin_Percentage": "13.84",
+        "PC_No": "33"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "211",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "250372",
+      "Electors": "487102",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2595",
+      "Win_Margin_Percentage": "1.04",
+      "PC_No": "35"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "213",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "238169",
+        "Electors": "504259",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "2820",
+        "Win_Margin_Percentage": "1.18",
+        "PC_No": "36"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "213",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "238169",
+      "Electors": "504259",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "2820",
+      "Win_Margin_Percentage": "1.18",
+      "PC_No": "36"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "214",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "126574",
+        "Electors": "291454",
+        "Constituency_Type": "SC",
+        "Win_Margin": "5012",
+        "Win_Margin_Percentage": "3.96",
+        "PC_No": "34"
+      },
+      {
+        "Assembly_No": "212",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "173792",
+        "Electors": "354339",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "36767",
+        "Win_Margin_Percentage": "21.16",
+        "PC_No": "34"
+      },
+      {
+        "Assembly_No": "202",
+        "Winning_Party": "INC",
+        "Valid_Votes": "238061",
+        "Electors": "362150",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "31404",
+        "Win_Margin_Percentage": "13.19",
+        "PC_No": "35"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "214",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "126574",
+      "Electors": "291454",
+      "Constituency_Type": "SC",
+      "Win_Margin": "5012",
+      "Win_Margin_Percentage": "3.96",
+      "PC_No": "34"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "198",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "258680",
+        "Electors": "384323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "41504",
+        "Win_Margin_Percentage": "16.04",
+        "PC_No": "36"
+      },
+      {
+        "Assembly_No": "202",
+        "Winning_Party": "INC",
+        "Valid_Votes": "238061",
+        "Electors": "362150",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "31404",
+        "Win_Margin_Percentage": "13.19",
+        "PC_No": "35"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "219",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "202540",
+      "Electors": "265184",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "822",
+      "Win_Margin_Percentage": "0.41",
+      "PC_No": "38"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "112",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "195938",
+        "Electors": "310142",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "59163",
+        "Win_Margin_Percentage": "30.19",
+        "PC_No": "19"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "220",
+      "Winning_Party": "INC",
+      "Valid_Votes": "184606",
+      "Electors": "287700",
+      "Constituency_Type": "SC",
+      "Win_Margin": "18994",
+      "Win_Margin_Percentage": "10.29",
+      "PC_No": "38"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "112",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "195938",
+        "Electors": "310142",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "59163",
+        "Win_Margin_Percentage": "30.19",
+        "PC_No": "19"
+      },
+      {
+        "Assembly_No": "223",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "201116",
+        "Electors": "292663",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "23326",
+        "Win_Margin_Percentage": "11.6",
+        "PC_No": "37"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "221",
+      "Winning_Party": "KTSTP",
+      "Valid_Votes": "211582",
+      "Electors": "263158",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "30663",
+      "Win_Margin_Percentage": "14.49",
+      "PC_No": "38"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "112",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "195938",
+        "Electors": "310142",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "59163",
+        "Win_Margin_Percentage": "30.19",
+        "PC_No": "19"
+      },
+      {
+        "Assembly_No": "111",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203483",
+        "Electors": "313553",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "34971",
+        "Win_Margin_Percentage": "17.19",
+        "PC_No": "19"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "222",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "226258",
+      "Electors": "341873",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "14294",
+      "Win_Margin_Percentage": "6.32",
+      "PC_No": "37"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "110",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "213269",
+        "Electors": "294058",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14139",
+        "Win_Margin_Percentage": "6.63",
+        "PC_No": "18"
+      },
+      {
+        "Assembly_No": "221",
+        "Winning_Party": "KTSTP",
+        "Valid_Votes": "211582",
+        "Electors": "263158",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "30663",
+        "Win_Margin_Percentage": "14.49",
+        "PC_No": "38"
+      },
+      {
+        "Assembly_No": "231",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "240838",
+        "Electors": "372321",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25825",
+        "Win_Margin_Percentage": "10.72",
+        "PC_No": "39"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "223",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "201116",
+      "Electors": "292663",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "23326",
+      "Win_Margin_Percentage": "11.6",
+      "PC_No": "37"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "218",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "186718",
+        "Electors": "263057",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "87024",
+        "Win_Margin_Percentage": "46.61",
+        "PC_No": "38"
+      },
+      {
+        "Assembly_No": "217",
+        "Winning_Party": "INC",
+        "Valid_Votes": "194733",
+        "Electors": "270499",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "62252",
+        "Win_Margin_Percentage": "31.97",
+        "PC_No": "38"
+      },
+      {
+        "Assembly_No": "221",
+        "Winning_Party": "KTSTP",
+        "Valid_Votes": "211582",
+        "Electors": "263158",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "30663",
+        "Win_Margin_Percentage": "14.49",
+        "PC_No": "38"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "226",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "211311",
+      "Electors": "311992",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "4750",
+      "Win_Margin_Percentage": "2.25",
+      "PC_No": "37"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "231",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "240838",
+        "Electors": "372321",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25825",
+        "Win_Margin_Percentage": "10.72",
+        "PC_No": "39"
+      },
+      {
+        "Assembly_No": "198",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "258680",
+        "Electors": "384323",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "41504",
+        "Win_Margin_Percentage": "16.04",
+        "PC_No": "36"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "228",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "261554",
+      "Electors": "352375",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "6792",
+      "Win_Margin_Percentage": "2.6",
+      "PC_No": "39"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "110",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "213269",
+        "Electors": "294058",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14139",
+        "Win_Margin_Percentage": "6.63",
+        "PC_No": "18"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "229",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "228336",
+      "Electors": "331571",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "12890",
+      "Win_Margin_Percentage": "5.65",
+      "PC_No": "39"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "99",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "203633",
+        "Electors": "296299",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25942",
+        "Win_Margin_Percentage": "12.74",
+        "PC_No": "17"
+      },
+      {
+        "Assembly_No": "98",
+        "Winning_Party": "INC",
+        "Valid_Votes": "236330",
+        "Electors": "353895",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14774",
+        "Win_Margin_Percentage": "6.25",
+        "PC_No": "17"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "231",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "240838",
+      "Electors": "372321",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "25825",
+      "Win_Margin_Percentage": "10.72",
+      "PC_No": "39"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "243",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "214966",
+        "Electors": "314711",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "32902",
+        "Win_Margin_Percentage": "15.31",
+        "PC_No": "40"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "232",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "229673",
+      "Electors": "362430",
+      "Constituency_Type": "SC",
+      "Win_Margin": "32909",
+      "Win_Margin_Percentage": "14.33",
+      "PC_No": "39"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "243",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "214966",
+        "Electors": "314711",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "32902",
+        "Win_Margin_Percentage": "15.31",
+        "PC_No": "40"
+      },
+      {
+        "Assembly_No": "234",
+        "Winning_Party": "INC",
+        "Valid_Votes": "199599",
+        "Electors": "322330",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "107506",
+        "Win_Margin_Percentage": "53.86",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "233",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "224272",
+      "Electors": "306710",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "30701",
+      "Win_Margin_Percentage": "13.69",
+      "PC_No": "39"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "234",
+        "Winning_Party": "INC",
+        "Valid_Votes": "199599",
+        "Electors": "322330",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "107506",
+        "Win_Margin_Percentage": "53.86",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "236",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "214981",
+      "Electors": "321329",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "29191",
+      "Win_Margin_Percentage": "13.58",
+      "PC_No": "41"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "91",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "186014",
+        "Electors": "283183",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "31863",
+        "Win_Margin_Percentage": "17.13",
+        "PC_No": "16"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "237",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "179662",
+      "Electors": "299139",
+      "Constituency_Type": "SC",
+      "Win_Margin": "20579",
+      "Win_Margin_Percentage": "11.45",
+      "PC_No": "41"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "91",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "186014",
+        "Electors": "283183",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "31863",
+        "Win_Margin_Percentage": "17.13",
+        "PC_No": "16"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "239",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "187334",
+      "Electors": "283958",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "26714",
+      "Win_Margin_Percentage": "14.26",
+      "PC_No": "40"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "234",
+        "Winning_Party": "INC",
+        "Valid_Votes": "199599",
+        "Electors": "322330",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "107506",
+        "Win_Margin_Percentage": "53.86",
+        "PC_No": "41"
+      },
+      {
+        "Assembly_No": "235",
+        "Winning_Party": "INC",
+        "Valid_Votes": "211787",
+        "Electors": "372474",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "40415",
+        "Win_Margin_Percentage": "19.08",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "241",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "228648",
+      "Electors": "352449",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "23169",
+      "Win_Margin_Percentage": "10.13",
+      "PC_No": "40"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "234",
+        "Winning_Party": "INC",
+        "Valid_Votes": "199599",
+        "Electors": "322330",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "107506",
+        "Win_Margin_Percentage": "53.86",
+        "PC_No": "41"
+      },
+      {
+        "Assembly_No": "247",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "201808",
+        "Electors": "305901",
+        "Constituency_Type": "SC",
+        "Win_Margin": "21699",
+        "Win_Margin_Percentage": "10.75",
+        "PC_No": "42"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "242",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "216418",
+      "Electors": "353647",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "13467",
+      "Win_Margin_Percentage": "6.22",
+      "PC_No": "40"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "232",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "229673",
+        "Electors": "362430",
+        "Constituency_Type": "SC",
+        "Win_Margin": "32909",
+        "Win_Margin_Percentage": "14.33",
+        "PC_No": "39"
+      },
+      {
+        "Assembly_No": "234",
+        "Winning_Party": "INC",
+        "Valid_Votes": "199599",
+        "Electors": "322330",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "107506",
+        "Win_Margin_Percentage": "53.86",
+        "PC_No": "41"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "244",
+      "Winning_Party": "IND",
+      "Valid_Votes": "215071",
+      "Electors": "302816",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "5494",
+      "Win_Margin_Percentage": "2.55",
+      "PC_No": "43"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "227",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "238360",
+        "Electors": "320843",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43347",
+        "Win_Margin_Percentage": "18.19",
+        "PC_No": "37"
+      },
+      {
+        "Assembly_No": "243",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "214966",
+        "Electors": "314711",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "32902",
+        "Win_Margin_Percentage": "15.31",
+        "PC_No": "40"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "246",
+      "Winning_Party": "IND",
+      "Valid_Votes": "224316",
+      "Electors": "306507",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3076",
+      "Win_Margin_Percentage": "1.37",
+      "PC_No": "40"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "245",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "227108",
+        "Electors": "326537",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "68245",
+        "Win_Margin_Percentage": "30.05",
+        "PC_No": "43"
+      },
+      {
+        "Assembly_No": "247",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "201808",
+        "Electors": "305901",
+        "Constituency_Type": "SC",
+        "Win_Margin": "21699",
+        "Win_Margin_Percentage": "10.75",
+        "PC_No": "42"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "252",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "239558",
+      "Electors": "334120",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "13361",
+      "Win_Margin_Percentage": "5.58",
+      "PC_No": "42"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "288",
+        "Winning_Party": "INC",
+        "Valid_Votes": "175425",
+        "Electors": "272345",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "34674",
+        "Win_Margin_Percentage": "19.77",
+        "PC_No": "44"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "253",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "215468",
+      "Electors": "294895",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "768",
+      "Win_Margin_Percentage": "0.36",
+      "PC_No": "43"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "252",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "239558",
+        "Electors": "334120",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13361",
+        "Win_Margin_Percentage": "5.58",
+        "PC_No": "42"
+      },
+      {
+        "Assembly_No": "288",
+        "Winning_Party": "INC",
+        "Valid_Votes": "175425",
+        "Electors": "272345",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "34674",
+        "Win_Margin_Percentage": "19.77",
+        "PC_No": "44"
+      },
+      {
+        "Assembly_No": "287",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "201272",
+        "Electors": "295083",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "62532",
+        "Win_Margin_Percentage": "31.07",
+        "PC_No": "44"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "254",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "215243",
+      "Electors": "320662",
+      "Constituency_Type": "SC",
+      "Win_Margin": "2590",
+      "Win_Margin_Percentage": "1.2",
+      "PC_No": "43"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "200",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "233498",
+        "Electors": "305866",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "3110",
+        "Win_Margin_Percentage": "1.33",
+        "PC_No": "35"
+      },
+      {
+        "Assembly_No": "286",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "216871",
+        "Electors": "323180",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "26291",
+        "Win_Margin_Percentage": "12.12",
+        "PC_No": "44"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "257",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "204684",
+      "Electors": "302300",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "6232",
+      "Win_Margin_Percentage": "3.04",
+      "PC_No": "45"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "255",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "215604",
+        "Electors": "332673",
+        "Constituency_Type": "SC",
+        "Win_Margin": "30981",
+        "Win_Margin_Percentage": "14.37",
+        "PC_No": "43"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "258",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "227786",
+      "Electors": "341964",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3043",
+      "Win_Margin_Percentage": "1.34",
+      "PC_No": "43"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "257",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "204684",
+        "Electors": "302300",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "6232",
+        "Win_Margin_Percentage": "3.04",
+        "PC_No": "45"
+      },
+      {
+        "Assembly_No": "259",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "199447",
+        "Electors": "294470",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "49215",
+        "Win_Margin_Percentage": "24.68",
+        "PC_No": "45"
+      },
+      {
+        "Assembly_No": "286",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "216871",
+        "Electors": "323180",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "26291",
+        "Win_Margin_Percentage": "12.12",
+        "PC_No": "44"
+      },
+      {
+        "Assembly_No": "285",
+        "Winning_Party": "INC",
+        "Valid_Votes": "206517",
+        "Electors": "278629",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "150866",
+        "Win_Margin_Percentage": "73.05",
+        "PC_No": "44"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "260",
+      "Winning_Party": "INC",
+      "Valid_Votes": "210224",
+      "Electors": "292525",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "9130",
+      "Win_Margin_Percentage": "4.34",
+      "PC_No": "45"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "284",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "229278",
+        "Electors": "292965",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25931",
+        "Win_Margin_Percentage": "11.31",
+        "PC_No": "48"
+      },
+      {
+        "Assembly_No": "283",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "200015",
+        "Electors": "271278",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "72169",
+        "Win_Margin_Percentage": "36.08",
+        "PC_No": "48"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "261",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "204312",
+      "Electors": "300692",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "14175",
+      "Win_Margin_Percentage": "6.94",
+      "PC_No": "45"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "265",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "177921",
+        "Electors": "270366",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "29924",
+        "Win_Margin_Percentage": "16.82",
+        "PC_No": "46"
+      },
+      {
+        "Assembly_No": "284",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "229278",
+        "Electors": "292965",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "25931",
+        "Win_Margin_Percentage": "11.31",
+        "PC_No": "48"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "263",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "185861",
+      "Electors": "280785",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "13578",
+      "Win_Margin_Percentage": "7.31",
+      "PC_No": "32"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "256",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "227883",
+        "Electors": "332498",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43647",
+        "Win_Margin_Percentage": "19.15",
+        "PC_No": "45"
+      },
+      {
+        "Assembly_No": "262",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "199849",
+        "Electors": "337831",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "43424",
+        "Win_Margin_Percentage": "21.73",
+        "PC_No": "45"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "267",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "132392",
+      "Electors": "237887",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "11876",
+      "Win_Margin_Percentage": "8.97",
+      "PC_No": "46"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "277",
+        "Winning_Party": "JSS",
+        "Valid_Votes": "231495",
+        "Electors": "288852",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "27863",
+        "Win_Margin_Percentage": "12.04",
+        "PC_No": "48"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "271",
+      "Winning_Party": "NCP",
+      "Valid_Votes": "220547",
+      "Electors": "321301",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "4385",
+      "Win_Margin_Percentage": "1.99",
+      "PC_No": "47"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "270",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "143833",
+        "Electors": "225302",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "13228",
+        "Win_Margin_Percentage": "9.2",
+        "PC_No": "46"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "272",
+      "Winning_Party": "SHS",
+      "Valid_Votes": "247034",
+      "Electors": "326756",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "18430",
+      "Win_Margin_Percentage": "7.46",
+      "PC_No": "47"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "268",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "150461",
+        "Electors": "230081",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "28116",
+        "Win_Margin_Percentage": "18.69",
+        "PC_No": "46"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "275",
+      "Winning_Party": "INC",
+      "Valid_Votes": "256413",
+      "Electors": "304044",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "22661",
+      "Win_Margin_Percentage": "8.84",
+      "PC_No": "47"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "277",
+        "Winning_Party": "JSS",
+        "Valid_Votes": "231495",
+        "Electors": "288852",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "27863",
+        "Win_Margin_Percentage": "12.04",
+        "PC_No": "48"
+      },
+      {
+        "Assembly_No": "267",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "132392",
+        "Electors": "237887",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "11876",
+        "Win_Margin_Percentage": "8.97",
+        "PC_No": "46"
+      },
+      {
+        "Assembly_No": "268",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "150461",
+        "Electors": "230081",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "28116",
+        "Win_Margin_Percentage": "18.69",
+        "PC_No": "46"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "277",
+      "Winning_Party": "JSS",
+      "Valid_Votes": "231495",
+      "Electors": "288852",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "27863",
+      "Win_Margin_Percentage": "12.04",
+      "PC_No": "48"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "265",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "177921",
+        "Electors": "270366",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "29924",
+        "Win_Margin_Percentage": "16.82",
+        "PC_No": "46"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "278",
+      "Winning_Party": "INC",
+      "Valid_Votes": "233502",
+      "Electors": "318189",
+      "Constituency_Type": "SC",
+      "Win_Margin": "6770",
+      "Win_Margin_Percentage": "2.9",
+      "PC_No": "48"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "273",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "263636",
+        "Electors": "324647",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "28133",
+        "Win_Margin_Percentage": "10.67",
+        "PC_No": "47"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "280",
+      "Winning_Party": "IND",
+      "Valid_Votes": "234098",
+      "Electors": "313330",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "27824",
+      "Win_Margin_Percentage": "11.89",
+      "PC_No": "48"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "281",
+        "Winning_Party": "BJP",
+        "Valid_Votes": "179884",
+        "Electors": "326494",
+        "Constituency_Type": "SC",
+        "Win_Margin": "30398",
+        "Win_Margin_Percentage": "16.9",
+        "PC_No": "44"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "282",
+      "Winning_Party": "BJP",
+      "Valid_Votes": "188683",
+      "Electors": "324197",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "6939",
+      "Win_Margin_Percentage": "3.68",
+      "PC_No": "44"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "283",
+        "Winning_Party": "NCP",
+        "Valid_Votes": "200015",
+        "Electors": "271278",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "72169",
+        "Win_Margin_Percentage": "36.08",
+        "PC_No": "48"
+      },
+      {
+        "Assembly_No": "280",
+        "Winning_Party": "IND",
+        "Valid_Votes": "234098",
+        "Electors": "313330",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "27824",
+        "Win_Margin_Percentage": "11.89",
+        "PC_No": "48"
+      }
+    ]
+  }
+]

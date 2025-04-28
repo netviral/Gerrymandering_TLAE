@@ -17,7 +17,8 @@ const fieldMap = {
     "Constituency_Type": "Constituency_Type",
     "Turnout_Percentage": "Turnout_Percentage",
     "Margin": "Margin",
-    "Margin_Percentage": "Margin_Percentage"
+    "Margin_Percentage": "Margin_Percentage",
+    "Position": "Candidate_Position",
   };
   
   // === Transform Logic ===
@@ -37,7 +38,4 @@ const fieldMap = {
     .on('end', () => {
       fs.writeFileSync(outputFile, JSON.stringify(results, null, 2));
       console.log(`✅ JSON saved to ${outputFile}`);
-      for(var i=0;i<10000000000;i++){
-        console.log(i)
-      }
     });
