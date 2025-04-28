@@ -1,0 +1,162 @@
+[
+  {
+    "fromPC": 1,
+    "toPC": 3,
+    "swapOutAssembly": 1,
+    "swapInAssembly": 13,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "NCP",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 2,
+    "toPC": 4,
+    "swapOutAssembly": 6,
+    "swapInAssembly": 10,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "SHS",
+    "nowWonByB": "BJP"
+  },
+  {
+    "fromPC": 5,
+    "toPC": 14,
+    "swapOutAssembly": 22,
+    "swapInAssembly": 79,
+    "earlierWonByA": "INC",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "SHS",
+    "nowWonByB": "BJP"
+  },
+  {
+    "fromPC": 6,
+    "toPC": 17,
+    "swapOutAssembly": 28,
+    "swapInAssembly": 95,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 7,
+    "toPC": 15,
+    "swapOutAssembly": 37,
+    "swapInAssembly": 82,
+    "earlierWonByA": "INC",
+    "earlierWonByB": "INC",
+    "nowWonByA": "INC",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 8,
+    "toPC": 22,
+    "swapOutAssembly": 36,
+    "swapInAssembly": 133,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "BVA",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 9,
+    "toPC": 29,
+    "swapOutAssembly": 48,
+    "swapInAssembly": 167,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "INC",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 10,
+    "toPC": 48,
+    "swapOutAssembly": 52,
+    "swapInAssembly": 279,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "IND",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 11,
+    "toPC": 18,
+    "swapOutAssembly": 60,
+    "swapInAssembly": 102,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 12,
+    "toPC": 24,
+    "swapOutAssembly": 67,
+    "swapInAssembly": 143,
+    "earlierWonByA": "INC",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 13,
+    "toPC": 25,
+    "swapOutAssembly": 75,
+    "swapInAssembly": 148,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 16,
+    "toPC": 43,
+    "swapOutAssembly": 85,
+    "swapInAssembly": 254,
+    "earlierWonByA": "INC",
+    "earlierWonByB": "NCP",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 20,
+    "toPC": 28,
+    "swapOutAssembly": 113,
+    "swapInAssembly": 155,
+    "earlierWonByA": "NCP",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "NCP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 21,
+    "toPC": 33,
+    "swapOutAssembly": 120,
+    "swapInAssembly": 204,
+    "earlierWonByA": "NCP",
+    "earlierWonByB": "BJP",
+    "nowWonByA": "NCP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 26,
+    "toPC": 44,
+    "swapOutAssembly": 154,
+    "swapInAssembly": 282,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "INC",
+    "nowWonByA": "BJP",
+    "nowWonByB": "SHS"
+  },
+  {
+    "fromPC": 38,
+    "toPC": 32,
+    "swapOutAssembly": 218,
+    "swapInAssembly": 192,
+    "earlierWonByA": "BJP",
+    "earlierWonByB": "SHS",
+    "nowWonByA": "SHS",
+    "nowWonByB": "SHS"
+  }
+]

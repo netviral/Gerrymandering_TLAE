@@ -1,0 +1,93 @@
+
+Initial INC wins: 8
+Potential INC wins after swaps: 20
+Total Gain in INC wins: +12
+
+Swap Recommendations:
+----------------------
+
+Swap 1:
+From PC: 1
+To PC: 2
+Assembly swapped out: 1
+Assembly swapped in: 6
+
+
+Swap 2:
+From PC: 3
+To PC: 47
+Assembly swapped out: 13
+Assembly swapped in: 271
+
+
+Swap 3:
+From PC: 4
+To PC: 13
+Assembly swapped out: 10
+Assembly swapped in: 71
+
+
+Swap 4:
+From PC: 6
+To PC: 16
+Assembly swapped out: 28
+Assembly swapped in: 85
+
+
+Swap 5:
+From PC: 8
+To PC: 30
+Assembly swapped out: 36
+Assembly swapped in: 172
+
+
+Swap 6:
+From PC: 9
+To PC: 35
+Assembly swapped out: 48
+Assembly swapped in: 202
+
+
+Swap 7:
+From PC: 10
+To PC: 7
+Assembly swapped out: 52
+Assembly swapped in: 38
+
+
+Swap 8:
+From PC: 11
+To PC: 17
+Assembly swapped out: 62
+Assembly swapped in: 95
+
+
+Swap 9:
+From PC: 14
+To PC: 40
+Assembly swapped out: 77
+Assembly swapped in: 242
+
+
+Swap 10:
+From PC: 18
+To PC: 27
+Assembly swapped out: 101
+Assembly swapped in: 158
+
+
+Swap 11:
+From PC: 21
+To PC: 38
+Assembly swapped out: 120
+Assembly swapped in: 217
+
+
+Swap 12:
+From PC: 25
+To PC: 31
+Assembly swapped out: 145
+Assembly swapped in: 182
+
+
+Total successful swaps: 12

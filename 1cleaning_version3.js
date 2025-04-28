@@ -70,68 +70,88 @@ assembliesWithPc.forEach(assembly => {
   if (!pcMap[pcNo]) {
     pcMap[pcNo] = {
       PC_Number: pcNo,
-      Assemblies: [],
-      Valid_Votes: 0,
-      Electors: 0,
-      Party_Vote_Totals: {} // Temp storage for party wise vote totals
+      Assemblies: []
     };
   }
+  
   delete assembly.PC_Number;
   
   // Add Assembly
   pcMap[pcNo].Assemblies.push(assembly);
-
-  // Update Valid Votes and Electors
-  pcMap[pcNo].Valid_Votes += assembly.Valid_Votes;
-  pcMap[pcNo].Electors += assembly.Electors;
-
-  // Update Party vote totals
-  assembly.Candidates.forEach(candidate => {
-    const party = candidate.Party;
-    const votes = candidate.Votes;
-    if (!pcMap[pcNo].Party_Vote_Totals[party]) {
-      pcMap[pcNo].Party_Vote_Totals[party] = 0;
-    }
-    pcMap[pcNo].Party_Vote_Totals[party] += votes;
-  });
 });
 
-// Step 6: Calculate Winning_Party and Margin per PC
-const finalOutput = Object.values(pcMap).map(pc => {
-  const partyVotes = pc.Party_Vote_Totals;
-  
-  const sortedParties = Object.entries(partyVotes)
+// 🔥 Abstracted Step: Function to calculate PC results
+function calculatePcResults(assemblies) {
+  const result = {
+    Valid_Votes: 0,
+    Electors: 0,
+    Winning_Party: "",
+    Winning_Margin: "",
+    Winning_Margin_Percentage: ""
+  };
+
+  const partyVoteTotals = {};
+
+  assemblies.forEach(assembly => {
+    result.Valid_Votes += assembly.Valid_Votes;
+    result.Electors += assembly.Electors;
+
+    assembly.Candidates.forEach(candidate => {
+      const party = candidate.Party;
+      const votes = candidate.Votes;
+
+      if (!partyVoteTotals[party]) {
+        partyVoteTotals[party] = 0;
+      }
+      partyVoteTotals[party] += votes;
+    });
+  });
+
+  const sortedParties = Object.entries(partyVoteTotals)
     .sort((a, b) => b[1] - a[1]); // sort descending by votes
 
-  const winningParty = sortedParties[0][0];
-  const winningVotes = sortedParties[0][1];
-  const runnerUpVotes = sortedParties[1] ? sortedParties[1][1] : 0; // handle if no runner-up
+  if (sortedParties.length > 0) {
+    const winningParty = sortedParties[0][0];
+    const winningVotes = sortedParties[0][1];
+    const runnerUpVotes = sortedParties[1] ? sortedParties[1][1] : 0;
 
-  const margin = winningVotes - runnerUpVotes;
-  const marginPercentage = (margin / pc.Valid_Votes * 100).toFixed(2);
+    const margin = winningVotes - runnerUpVotes;
+    const marginPercentage = (margin / result.Valid_Votes * 100).toFixed(2);
+
+    result.Winning_Party = winningParty;
+    result.Winning_Margin = margin.toString();
+    result.Winning_Margin_Percentage = marginPercentage;
+  }
+
+  // Convert to string for consistency
+  result.Valid_Votes = result.Valid_Votes.toString();
+  result.Electors = result.Electors.toString();
+
+  return result;
+}
+
+// Step 6: Build final PC objects
+const finalOutput = Object.values(pcMap).map(pc => {
+  const pcResults = calculatePcResults(pc.Assemblies);
 
   return {
     PC_Number: pc.PC_Number,
-    Valid_Votes: pc.Valid_Votes.toString(),
-    Electors: pc.Electors.toString(),
-    Winning_Party: winningParty,
-    Winning_Margin: margin.toString(),
-    Winning_Margin_Percentage: marginPercentage,
+    ...pcResults,
     swappable_neighbors: "",
     Assemblies: pc.Assemblies
   };
 });
 
-// 🔥 Step 6.5: Add swappable_neighbors before saving
+// 🔥 Step 6.5: Add swappable_neighbors
 finalOutput.forEach(pc => {
   const assembliesInPc = pc.Assemblies.map(a => parseInt(a.Assembly_No));
-  const assembliesSet = new Set(assembliesInPc); // for fast lookup
+  const assembliesSet = new Set(assembliesInPc);
 
   const potentialNeighbors = new Set();
 
   assembliesInPc.forEach(assemblyNo => {
     const neighbors = assemblyNeighbors[assemblyNo] || [];
-    
+
     neighbors.forEach(neighborAssemblyNo => {
       if (!assembliesSet.has(neighborAssemblyNo)) {
         potentialNeighbors.add(neighborAssemblyNo);

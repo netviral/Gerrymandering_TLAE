@@ -12,26 +12,6 @@
     },
     "neighbors": [
       {
-        "Assembly_No": "8",
-        "Winning_Party": "BJP",
-        "Valid_Votes": "200568",
-        "Electors": "327082",
-        "Constituency_Type": "GEN",
-        "Win_Margin": "42915",
-        "Win_Margin_Percentage": "21.4",
-        "PC_No": "2"
-      },
-      {
-        "Assembly_No": "6",
-        "Winning_Party": "INC",
-        "Valid_Votes": "245347",
-        "Electors": "372989",
-        "Constituency_Type": "GEN",
-        "Win_Margin": "14564",
-        "Win_Margin_Percentage": "5.94",
-        "PC_No": "2"
-      },
-      {
         "Assembly_No": "116",
         "Winning_Party": "BJP",
         "Valid_Votes": "166252",
@@ -39,7 +19,7 @@
         "Constituency_Type": "ST",
         "Win_Margin": "33694",
         "Win_Margin_Percentage": "20.27",
-        "PC_No": "2"
+        "PC_No": "3"
       },
       {
         "Assembly_No": "115",
@@ -62,7 +42,7 @@
       "Constituency_Type": "GEN",
       "Win_Margin": "14564",
       "Win_Margin_Percentage": "5.94",
-      "PC_No": "2"
+      "PC_No": "1"
     },
     "neighbors": [
       {
@@ -76,6 +56,16 @@
         "PC_No": "3"
       },
       {
+        "Assembly_No": "115",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "203468",
+        "Electors": "341615",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "47684",
+        "Win_Margin_Percentage": "23.44",
+        "PC_No": "2"
+      },
+      {
         "Assembly_No": "113",
         "Winning_Party": "SHS",
         "Valid_Votes": "190142",
@@ -84,6 +74,30 @@
         "Win_Margin": "13889",
         "Win_Margin_Percentage": "7.3",
         "PC_No": "20"
+      }
+    ]
+  },
+  {
+    "constituency": {
+      "Assembly_No": "7",
+      "Winning_Party": "AIMIM",
+      "Valid_Votes": "161342",
+      "Electors": "322026",
+      "Constituency_Type": "GEN",
+      "Win_Margin": "3307",
+      "Win_Margin_Percentage": "2.05",
+      "PC_No": "2"
+    },
+    "neighbors": [
+      {
+        "Assembly_No": "6",
+        "Winning_Party": "INC",
+        "Valid_Votes": "245347",
+        "Electors": "372989",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "14564",
+        "Win_Margin_Percentage": "5.94",
+        "PC_No": "1"
       }
     ]
   },
@@ -131,7 +145,7 @@
         "Constituency_Type": "GEN",
         "Win_Margin": "46729",
         "Win_Margin_Percentage": "23.56",
-        "PC_No": "3"
+        "PC_No": "2"
       }
     ]
   },
@@ -165,7 +179,7 @@
         "Constituency_Type": "GEN",
         "Win_Margin": "42915",
         "Win_Margin_Percentage": "21.4",
-        "PC_No": "2"
+        "PC_No": "1"
       },
       {
         "Assembly_No": "10",
@@ -178,6 +192,16 @@
         "PC_No": "4"
       },
       {
+        "Assembly_No": "14",
+        "Winning_Party": "SHS",
+        "Valid_Votes": "198363",
+        "Electors": "315672",
+        "Constituency_Type": "GEN",
+        "Win_Margin": "46729",
+        "Win_Margin_Percentage": "23.56",
+        "PC_No": "2"
+      },
+      {
         "Assembly_No": "6",
         "Winning_Party": "INC",
         "Valid_Votes": "245347",
@@ -185,7 +209,7 @@
         "Constituency_Type": "GEN",
         "Win_Margin": "14564",
         "Win_Margin_Percentage": "5.94",
-        "PC_No": "2"
+        "PC_No": "1"
       }
     ]
   },
@@ -209,7 +233,7 @@
         "Constituency_Type": "GEN",
         "Win_Margin": "14564",
         "Win_Margin_Percentage": "5.94",
-        "PC_No": "2"
+        "PC_No": "1"
       },
       {
         "Assembly_No": "113",
@@ -1723,7 +1747,7 @@
         "Constituency_Type": "ST",
         "Win_Margin": "33694",
         "Win_Margin_Percentage": "20.27",
-        "PC_No": "2"
+        "PC_No": "3"
       }
     ]
   },
